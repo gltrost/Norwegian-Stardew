@@ -1,0 +1,303 @@
+{
+  "Default": {
+    "SeasonOverride": null,
+    "DefaultMusic": null,
+    "DefaultMusicCondition": null,
+    "DefaultMusicDelayOneScreen": true,
+    "Music": [
+      {
+        "Id": "spring1",
+        "Track": "spring1",
+        "Condition": "SEASON Spring"
+      },
+      {
+        "Id": "spring2",
+        "Track": "spring2",
+        "Condition": "SEASON Spring"
+      },
+      {
+        "Id": "spring3",
+        "Track": "spring3",
+        "Condition": "SEASON Spring"
+      },
+      {
+        "Id": "summer1",
+        "Track": "summer1",
+        "Condition": "SEASON Summer"
+      },
+      {
+        "Id": "summer2",
+        "Track": "summer2",
+        "Condition": "SEASON Summer"
+      },
+      {
+        "Id": "summer3",
+        "Track": "summer3",
+        "Condition": "SEASON Summer"
+      },
+      {
+        "Id": "fall1",
+        "Track": "fall1",
+        "Condition": "SEASON Fall"
+      },
+      {
+        "Id": "fall2",
+        "Track": "fall2",
+        "Condition": "SEASON Fall"
+      },
+      {
+        "Id": "fall3",
+        "Track": "fall3",
+        "Condition": "SEASON Fall"
+      },
+      {
+        "Id": "winter1",
+        "Track": "winter1",
+        "Condition": "SEASON Winter"
+      },
+      {
+        "Id": "winter2",
+        "Track": "winter2",
+        "Condition": "SEASON Winter"
+      },
+      {
+        "Id": "winter3",
+        "Track": "winter3",
+        "Condition": "SEASON Winter"
+      }
+    ],
+    "DayAmbience": null,
+    "NightAmbience": null,
+    "PlayRandomAmbientSounds": true,
+    "AllowRainTotem": true,
+    "RainTotemAffectsContext": null,
+    "WeatherConditions": [
+      {
+        "Id": "GreenRain",
+        "Condition": "IS_GREEN_RAIN_DAY",
+        "Weather": "GreenRain"
+      },
+      {
+        "Id": "FirstWeekSun",
+        "Condition": "SEASON_DAY Spring 0 Spring 1 Spring 2 Spring 4, YEAR 1",
+        "Weather": "Sun"
+      },
+      {
+        "Id": "FirstWeekRain",
+        "Condition": "SEASON_DAY Spring 3, YEAR 1",
+        "Weather": "Rain"
+      },
+      {
+        "Id": "SummerStorm",
+        "Condition": "SEASON summer, SYNCED_SUMMER_RAIN_RANDOM, RANDOM .85",
+        "Weather": "Storm"
+      },
+      {
+        "Id": "SummerStorm2",
+        "Condition": "SEASON summer, SYNCED_SUMMER_RAIN_RANDOM, RANDOM .25, DAYS_PLAYED 28, !DAY_OF_MONTH 1, !DAY_OF_MONTH 2",
+        "Weather": "Storm"
+      },
+      {
+        "Id": "FallStorm",
+        "Condition": "SEASON spring fall, SYNCED_RANDOM day location_weather .183, RANDOM .25, DAYS_PLAYED 28, !DAY_OF_MONTH 1, !DAY_OF_MONTH 2",
+        "Weather": "Storm"
+      },
+      {
+        "Id": "WinterSnow",
+        "Condition": "SEASON winter, SYNCED_RANDOM day location_weather 0.63",
+        "Weather": "Snow"
+      },
+      {
+        "Id": "SummerRain",
+        "Condition": "SEASON summer, SYNCED_SUMMER_RAIN_RANDOM, !DAY_OF_MONTH 1",
+        "Weather": "Rain"
+      },
+      {
+        "Id": "FallRain",
+        "Condition": "SEASON spring fall, SYNCED_RANDOM day location_weather 0.183",
+        "Weather": "Rain"
+      },
+      {
+        "Id": "SpringWind",
+        "Condition": "DAYS_PLAYED 3, SEASON spring, RANDOM .20",
+        "Weather": "Wind"
+      },
+      {
+        "Id": "FallWind",
+        "Condition": "DAYS_PLAYED 3, SEASON fall, RANDOM .6",
+        "Weather": "Wind"
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Weather": "Sun"
+      }
+    ],
+    "CopyWeatherFromLocation": null,
+    "ReviveLocations": [
+      {
+        "Id": "Mines",
+        "Condition": "LOCATION_CONTEXT Here Default, LOCATION_IS_MINES Here",
+        "Location": "Mine",
+        "Position": {
+          "X": 22,
+          "Y": 9
+        }
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Hospital",
+        "Position": {
+          "X": 20,
+          "Y": 12
+        }
+      }
+    ],
+    "MaxPassOutCost": 1000,
+    "PassOutMail": [
+      {
+        "Id": "FoundByMarlon",
+        "Condition": "RANDOM .33, IS_COMMUNITY_CENTER_COMPLETE",
+        "Mail": "passedOut4",
+        "MaxPassOutCost": 0,
+        "SkipRandomSelection": true
+      },
+      {
+        "Id": "FoundByHarvey",
+        "Condition": "!PLAYER_NPC_RELATIONSHIP Target Harvey Married",
+        "Mail": "passedOut3",
+        "MaxPassOutCost": -1,
+        "SkipRandomSelection": false
+      },
+      {
+        "Id": "FoundByJoja",
+        "Condition": "!IS_COMMUNITY_CENTER_COMPLETE",
+        "Mail": "passedOut1",
+        "MaxPassOutCost": -1,
+        "SkipRandomSelection": false
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Mail": "passedOut2",
+        "MaxPassOutCost": -1,
+        "SkipRandomSelection": false
+      }
+    ],
+    "PassOutLocations": null,
+    "CustomFields": null
+  },
+  "Island": {
+    "SeasonOverride": "Summer",
+    "DefaultMusic": "IslandMusic",
+    "DefaultMusicCondition": "PLAYER_HAS_MAIL Any Island_FirstParrot",
+    "DefaultMusicDelayOneScreen": false,
+    "Music": [],
+    "DayAmbience": "tropical_island_day_ambient",
+    "NightAmbience": "spring_night_ambient",
+    "PlayRandomAmbientSounds": false,
+    "AllowRainTotem": true,
+    "RainTotemAffectsContext": null,
+    "WeatherConditions": [
+      {
+        "Id": "FirstVisitSun",
+        "Condition": "!PLAYER_HAS_MAIL Any Visited_Island",
+        "Weather": "Sun"
+      },
+      {
+        "Id": "Rain",
+        "Condition": "RANDOM .24",
+        "Weather": "Rain"
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Weather": "Sun"
+      }
+    ],
+    "CopyWeatherFromLocation": null,
+    "ReviveLocations": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "IslandSouth",
+        "Position": {
+          "X": 13,
+          "Y": 33
+        }
+      }
+    ],
+    "MaxPassOutCost": 2500,
+    "PassOutMail": [
+      {
+        "Id": "NotFound",
+        "Condition": "PLAYER_LOCATION_CONTEXT Target Island",
+        "Mail": "",
+        "MaxPassOutCost": -1,
+        "SkipRandomSelection": false
+      },
+      {
+        "Id": "FoundByLeo",
+        "Condition": "PLAYER_HAS_MET Target Leo, RANDOM .5",
+        "Mail": "passedOutIsland_Leo",
+        "MaxPassOutCost": 0,
+        "SkipRandomSelection": false
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Mail": "passedOutIsland",
+        "MaxPassOutCost": -1,
+        "SkipRandomSelection": false
+      }
+    ],
+    "PassOutLocations": [
+      {
+        "Id": "Default",
+        "Condition": "PLAYER_HAS_MAIL Any Island_UpgradeHouse",
+        "Location": "IslandFarmHouse",
+        "Position": {
+          "X": 14,
+          "Y": 17
+        }
+      }
+    ],
+    "CustomFields": null
+  },
+  "Desert": {
+    "SeasonOverride": "Summer",
+    "DefaultMusic": "wavy",
+    "DefaultMusicCondition": null,
+    "DefaultMusicDelayOneScreen": false,
+    "Music": [],
+    "DayAmbience": null,
+    "NightAmbience": null,
+    "PlayRandomAmbientSounds": false,
+    "AllowRainTotem": true,
+    "RainTotemAffectsContext": "Default",
+    "WeatherConditions": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Weather": "Sun"
+      }
+    ],
+    "CopyWeatherFromLocation": null,
+    "ReviveLocations": [
+      {
+        "Id": "Default",
+        "Condition": "IS_PASSIVE_FESTIVAL_TODAY DesertFestival",
+        "Location": "Desert",
+        "Position": {
+          "X": 26,
+          "Y": 14
+        }
+      }
+    ],
+    "MaxPassOutCost": -1,
+    "PassOutMail": null,
+    "PassOutLocations": null,
+    "CustomFields": null
+  }
+}

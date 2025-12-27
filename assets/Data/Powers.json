@@ -1,0 +1,398 @@
+{
+  "ForestMagic": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:ForestMagic]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:ForestMagic_Description]",
+    "TexturePath": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 16,
+      "Y": 340
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current canReadJunimoText",
+    "CustomFields": null
+  },
+  "DwarvishTranslationGuide": {
+    "DisplayName": "[LocalizedText Strings\\Objects:DwarvishTranslationGuide_Name]",
+    "Description": "[LocalizedText Strings\\Objects:DwarvishTranslationGuide_Description]",
+    "TexturePath": "Maps\\springobjects",
+    "TexturePosition": {
+      "X": 224,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Host HasDwarvishTranslationGuide",
+    "CustomFields": null
+  },
+  "RustyKey": {
+    "DisplayName": "[LocalizedText Strings\\StringsFromCSFiles:SkillsPage.cs.11588]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 144,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Host HasRustyKey",
+    "CustomFields": null
+  },
+  "ClubCard": {
+    "DisplayName": "[LocalizedText Strings\\StringsFromCSFiles:SkillsPage.cs.11589]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 160,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current HasClubCard",
+    "CustomFields": null
+  },
+  "SpecialCharm": {
+    "DisplayName": "[LocalizedText Strings\\StringsFromCSFiles:SkillsPage.cs.11590]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 176,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current HasSpecialCharm",
+    "CustomFields": null
+  },
+  "SkullKey": {
+    "DisplayName": "[LocalizedText Strings\\StringsFromCSFiles:SkillsPage.cs.11591]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 192,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Host HasSkullKey",
+    "CustomFields": null
+  },
+  "MagnifyingGlass": {
+    "DisplayName": "[LocalizedText Strings\\StringsFromCSFiles:SkillsPage.cs.magnifyingglass]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 208,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current HasMagnifyingGlass",
+    "CustomFields": null
+  },
+  "DarkTalisman": {
+    "DisplayName": "[LocalizedText Strings\\Objects:DarkTalisman]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 224,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current HasDarkTalisman",
+    "CustomFields": null
+  },
+  "MagicInk": {
+    "DisplayName": "[LocalizedText Strings\\Objects:MagicInk]",
+    "Description": "",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 240,
+      "Y": 320
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current HasMagicInk",
+    "CustomFields": null
+  },
+  "BearPaw": {
+    "DisplayName": "[LocalizedText Strings\\Objects:BearPaw]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:BearPaw_Description]",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 192,
+      "Y": 336
+    },
+    "UnlockedCondition": "PLAYER_HAS_SEEN_EVENT Current 2120303",
+    "CustomFields": null
+  },
+  "SpringOnionMastery": {
+    "DisplayName": "[LocalizedText Strings\\Objects:SpringOnionBugs]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:SpringOnionMastery_Description]",
+    "TexturePath": "LooseSprites\\Cursors",
+    "TexturePosition": {
+      "X": 208,
+      "Y": 336
+    },
+    "UnlockedCondition": "PLAYER_HAS_SEEN_EVENT Current 3910979",
+    "CustomFields": null
+  },
+  "KeyToTheTown": {
+    "DisplayName": "[LocalizedText Strings\\StringsFromCSFiles:KeyToTheTown]",
+    "Description": "[LocalizedText Strings\\StringsFromCSFiles:KeyToTheTown_desc]",
+    "TexturePath": "Maps\\springobjects",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 608
+    },
+    "UnlockedCondition": "PLAYER_HAS_MAIL Current HasTownKey",
+    "CustomFields": null
+  },
+  "Book_PriceCatalogue": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_PriceCatalogue_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_PriceCatalogue_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 32,
+      "Y": 224
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_PriceCatalogue 1",
+    "CustomFields": null
+  },
+  "Book_Marlon": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Marlon_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Marlon_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 224
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Marlon 1",
+    "CustomFields": null
+  },
+  "Book_Speed": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Speed_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Speed_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 112,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Speed 1",
+    "CustomFields": null
+  },
+  "Book_Speed2": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Speed2_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Speed2_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 112,
+      "Y": 224
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Speed2 1",
+    "CustomFields": null
+  },
+  "Book_Void": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Void_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Void_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 96,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Void 1",
+    "CustomFields": null
+  },
+  "Book_Friendship": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Friendship_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Friendship_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 80,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Friendship 1",
+    "CustomFields": null
+  },
+  "Book_Defense": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Defense_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Defense_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 64,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Defense 1",
+    "CustomFields": null
+  },
+  "Book_Woodcutting": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Woodcutting_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Woodcutting_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 48,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Woodcutting 1",
+    "CustomFields": null
+  },
+  "Book_WildSeeds": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_WildSeeds_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_WildSeeds_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 32,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_WildSeeds 1",
+    "CustomFields": null
+  },
+  "Book_Roe": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Roe_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Roe_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 16,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Roe 1",
+    "CustomFields": null
+  },
+  "Book_Bombs": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Bombs_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Bombs_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 208
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Bombs 1",
+    "CustomFields": null
+  },
+  "Book_Crabbing": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Crabbing_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Crabbing_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 112,
+      "Y": 192
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Crabbing 1",
+    "CustomFields": null
+  },
+  "Book_Trash": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Trash_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Trash_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 96,
+      "Y": 192
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Trash 1",
+    "CustomFields": null
+  },
+  "Book_Diamonds": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Diamonds_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Diamonds_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 64,
+      "Y": 224
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Diamonds 1",
+    "CustomFields": null
+  },
+  "Book_Mystery": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Mystery_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Mystery_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 80,
+      "Y": 224
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Mystery 1",
+    "CustomFields": null
+  },
+  "Book_Horse": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Riding_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Riding_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 80,
+      "Y": 272
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Horse 1",
+    "CustomFields": null
+  },
+  "Book_Artifact": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_Artifact_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_Artifact_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 64,
+      "Y": 272
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Artifact 1",
+    "CustomFields": null
+  },
+  "Book_Grass": {
+    "DisplayName": "[LocalizedText Strings\\Objects:GrassBook_Name]",
+    "Description": "[LocalizedText Strings\\Objects:GrassBook_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 16,
+      "Y": 288
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_Grass 1",
+    "CustomFields": null
+  },
+  "Book_AnimalCatalogue": {
+    "DisplayName": "[LocalizedText Strings\\Objects:Book_AnimalCatalogue_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Book_AnimalCatalogue_Description]",
+    "TexturePath": "TileSheets\\Objects_2",
+    "TexturePosition": {
+      "X": 96,
+      "Y": 224
+    },
+    "UnlockedCondition": "PLAYER_STAT Current Book_AnimalCatalogue 1",
+    "CustomFields": null
+  },
+  "Mastery_Farming": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:0_Mastery]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Farming_Mastery]",
+    "TexturePath": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 340
+    },
+    "UnlockedCondition": "PLAYER_STAT Current mastery_0 1",
+    "CustomFields": null
+  },
+  "Mastery_Fishing": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:1_Mastery]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Fishing_Mastery]",
+    "TexturePath": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 340
+    },
+    "UnlockedCondition": "PLAYER_STAT Current mastery_1 1",
+    "CustomFields": null
+  },
+  "Mastery_Foraging": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:2_Mastery]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Foraging_Mastery]",
+    "TexturePath": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 340
+    },
+    "UnlockedCondition": "PLAYER_STAT Current mastery_2 1",
+    "CustomFields": null
+  },
+  "Mastery_Mining": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:3_Mastery]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Mining_Mastery]",
+    "TexturePath": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 340
+    },
+    "UnlockedCondition": "PLAYER_STAT Current mastery_3 1",
+    "CustomFields": null
+  },
+  "Mastery_Combat": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:4_Mastery]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Trinkets_Description]",
+    "TexturePath": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 0,
+      "Y": 340
+    },
+    "UnlockedCondition": "PLAYER_STAT Current mastery_4 1",
+    "CustomFields": null
+  }
+}

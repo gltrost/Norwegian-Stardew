@@ -1,0 +1,282 @@
+{
+  "628": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Cherry_Name]",
+    "Seasons": [
+      "Spring"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)638",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 0,
+    "CustomFields": null
+  },
+  "629": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Apricot_Name]",
+    "Seasons": [
+      "Spring"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)634",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 1,
+    "CustomFields": null
+  },
+  "630": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Orange_Name]",
+    "Seasons": [
+      "Summer"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)635",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 2,
+    "CustomFields": null
+  },
+  "631": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Peach_Name]",
+    "Seasons": [
+      "Summer"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)636",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 3,
+    "CustomFields": null
+  },
+  "632": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Pomegranate_Name]",
+    "Seasons": [
+      "Fall"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)637",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 4,
+    "CustomFields": null
+  },
+  "633": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Apple_Name]",
+    "Seasons": [
+      "Fall"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)613",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 5,
+    "CustomFields": null
+  },
+  "69": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Banana_Name]",
+    "Seasons": [
+      "Summer"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)91",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 7,
+    "CustomFields": null
+  },
+  "835": {
+    "PlantableLocationRules": null,
+    "DisplayName": "[LocalizedText Strings\\Objects:Mango_Name]",
+    "Seasons": [
+      "Summer"
+    ],
+    "Fruit": [
+      {
+        "Season": null,
+        "Chance": 1.0,
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": "(O)834",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\fruitTrees",
+    "TextureSpriteRow": 8,
+    "CustomFields": null
+  }
+}

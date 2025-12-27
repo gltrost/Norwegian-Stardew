@@ -1,0 +1,312 @@
+[
+  {
+    "Id": "0",
+    "Name": "Cotton Candy",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:CottonCandy_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:CottonCandy_Description]",
+    "Price": 50,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 0,
+    "ItemTags": [
+      "Sweet",
+      "Candy"
+    ]
+  },
+  {
+    "Id": "1",
+    "Name": "Jasmine Tea",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:JasmineTea_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:JasmineTea_Description]",
+    "Price": 50,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 1,
+    "ItemTags": [
+      "Drink",
+      "Hot",
+      "Healthy"
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "Joja Cola",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:JojaCola_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:JojaCola_Description]",
+    "Price": 40,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 2,
+    "ItemTags": [
+      "Drink",
+      "Cold",
+      "Joja"
+    ]
+  },
+  {
+    "Id": "3",
+    "Name": "Sour Slimes",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:SourSlimes_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:SourSlimes_Description]",
+    "Price": 80,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 3,
+    "ItemTags": [
+      "Sour",
+      "Candy"
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "Personal Pizza",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:PersonalPizza_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:PersonalPizza_Description]",
+    "Price": 150,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 4,
+    "ItemTags": [
+      "Hot",
+      "Fatty"
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "Nachos",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:Nachos_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:Nachos_Description]",
+    "Price": 100,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 5,
+    "ItemTags": [
+      "Hot",
+      "Salty",
+      "Fatty"
+    ]
+  },
+  {
+    "Id": "6",
+    "Name": "Salmon Burger",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:SalmonBurger_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:SalmonBurger_Description]",
+    "Price": 150,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 6,
+    "ItemTags": [
+      "Sandwich",
+      "Burger"
+    ]
+  },
+  {
+    "Id": "7",
+    "Name": "Ice Cream Sandwich",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:IceCreamSandwich_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:IceCreamSandwich_Description]",
+    "Price": 150,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 7,
+    "ItemTags": [
+      "Sandwich",
+      "Sweet",
+      "Cold"
+    ]
+  },
+  {
+    "Id": "8",
+    "Name": "Popcorn",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:Popcorn_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:Popcorn_Description]",
+    "Price": 120,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 8,
+    "ItemTags": [
+      "Hot",
+      "Salty"
+    ]
+  },
+  {
+    "Id": "9",
+    "Name": "Fries",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:Fries_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:Fries_Description]",
+    "Price": 100,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 9,
+    "ItemTags": [
+      "Hot",
+      "Salty",
+      "Fatty"
+    ]
+  },
+  {
+    "Id": "10",
+    "Name": "Chocolate Popcorn",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:ChocolatePopcorn_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:ChocolatePopcorn_Description]",
+    "Price": 130,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 10,
+    "ItemTags": [
+      "Hot",
+      "Sweet"
+    ]
+  },
+  {
+    "Id": "11",
+    "Name": "Black Licorice",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:BlackLicorice_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:BlackLicorice_Description]",
+    "Price": 25,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 11,
+    "ItemTags": null
+  },
+  {
+    "Id": "12",
+    "Name": "Star Cookie",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:StarCookie_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:StarCookie_Description]",
+    "Price": 150,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 12,
+    "ItemTags": [
+      "Sweet"
+    ]
+  },
+  {
+    "Id": "13",
+    "Name": "Jawbreaker",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:Jawbreaker_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:Jawbreaker_Description]",
+    "Price": 250,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 13,
+    "ItemTags": [
+      "Sweet",
+      "Candy"
+    ]
+  },
+  {
+    "Id": "14",
+    "Name": "Salted Peanuts",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:SaltedPeanuts_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:SaltedPeanuts_Description]",
+    "Price": 120,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 14,
+    "ItemTags": [
+      "Salty"
+    ]
+  },
+  {
+    "Id": "15",
+    "Name": "Hummus Snack Pack",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:HummusSnackPack_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:HummusSnackPack_Description]",
+    "Price": 90,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 15,
+    "ItemTags": [
+      "Healthy"
+    ]
+  },
+  {
+    "Id": "16",
+    "Name": "Kale Smoothie",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:KaleSmoothie_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:KaleSmoothie_Description]",
+    "Price": 120,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 16,
+    "ItemTags": [
+      "Drink",
+      "Healthy"
+    ]
+  },
+  {
+    "Id": "17",
+    "Name": "Apple Slices",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:AppleSlices_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:AppleSlices_Description]",
+    "Price": 100,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 17,
+    "ItemTags": [
+      "Sweet",
+      "Healthy"
+    ]
+  },
+  {
+    "Id": "18",
+    "Name": "Panzanella Salad",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:PanzanellaSalad_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:PanzanellaSalad_Description]",
+    "Price": 200,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 18,
+    "ItemTags": [
+      "Gourmet",
+      "Healthy"
+    ]
+  },
+  {
+    "Id": "19",
+    "Name": "Truffle Popcorn",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:TrufflePopcorn_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:TrufflePopcorn_Description]",
+    "Price": 180,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 19,
+    "ItemTags": [
+      "Gourmet",
+      "Salty"
+    ]
+  },
+  {
+    "Id": "20",
+    "Name": "Cappuccino Mousse Cake",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:CappuccinoMousseCake_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:CappuccinoMousseCake_Description]",
+    "Price": 220,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 20,
+    "ItemTags": [
+      "Sweet",
+      "Gourmet"
+    ]
+  },
+  {
+    "Id": "21",
+    "Name": "JojaCorn",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:JojaCorn_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:JojaCorn_Description]",
+    "Price": 10,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 21,
+    "ItemTags": [
+      "Joja"
+    ]
+  },
+  {
+    "Id": "22",
+    "Name": "Stardrop Sorbet",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:StardropSorbet_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:StardropSorbet_Description]",
+    "Price": 1250,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 22,
+    "ItemTags": [
+      "Sweet",
+      "Gourmet"
+    ]
+  },
+  {
+    "Id": "23",
+    "Name": "Rock Candy",
+    "DisplayName": "[LocalizedText Strings\\MovieConcessions:RockCandy_Name]",
+    "Description": "[LocalizedText Strings\\MovieConcessions:RockCandy_Description]",
+    "Price": 90,
+    "Texture": "LooseSprites\\Concessions",
+    "SpriteIndex": 23,
+    "ItemTags": [
+      "Sweet",
+      "Candy"
+    ]
+  }
+]

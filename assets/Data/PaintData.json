@@ -1,0 +1,14 @@
+{
+  "House": "Building/-50 -10/Roof/-25 0/Trim/-25 -8",
+  "Log Cabin": "Building/-20 20/Roof/-15 5/Trim/-10 5",
+  "Stone Cabin": "Building/-15 25/Roof/-15 5/Trim/-5 5",
+  "Plank Cabin": "Building/-55 -20/Roof/-10 5/Trim/-55 -30",
+  "Beach Cabin": "Building/-10 0/Roof/0 5/Trim/-5 5",
+  "Neighbor Cabin": "Building/-10 0/Roof/-15 10/Trim/-10 5",
+  "Rustic Cabin": "Building/-20 5/Roof/-5 5/Trim/-5 0",
+  "Trailer Cabin": "Building/-5 0/Roof/-5 5/Trim/-5 0",
+  "Stable": "Building/-20 5/Roof/-25 0/Trim/-15 0",
+  "Big Shed": "Building/-45 -10/Roof/-20 5/Trim/-25 0",
+  "Deluxe Coop": "Building/-25 0/Roof/-15 5/Trim/-25 0",
+  "Deluxe Barn": "Building/-15 0/Roof/-10 5/Trim/-10 5"
+}

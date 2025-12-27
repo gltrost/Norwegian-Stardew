@@ -1,0 +1,66 @@
+{
+  "NightMarket": {
+    "DisplayName": "[LocalizedText Strings\\UI:Billboard_NightMarket]",
+    "Condition": "",
+    "ShowOnCalendar": true,
+    "Season": "Winter",
+    "StartDay": 15,
+    "EndDay": 17,
+    "StartTime": 1700,
+    "StartMessage": "[LocalizedText Strings\\Events:BeachNightMarket_NowOpen]",
+    "OnlyShowMessageOnFirstDay": false,
+    "MapReplacements": {
+      "Beach": "BeachNightMarket"
+    },
+    "DailySetupMethod": null,
+    "CleanupMethod": null,
+    "CustomFields": null
+  },
+  "DesertFestival": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:DesertFestival]",
+    "Condition": "LOCATION_ACCESSIBLE Desert",
+    "ShowOnCalendar": true,
+    "Season": "Spring",
+    "StartDay": 15,
+    "EndDay": 17,
+    "StartTime": 1000,
+    "StartMessage": "[LocalizedText Strings\\1_6_Strings:DesertFestival_NowOpen]",
+    "OnlyShowMessageOnFirstDay": false,
+    "MapReplacements": {
+      "Desert": "DesertFestival"
+    },
+    "DailySetupMethod": "StardewValley.Locations.DesertFestival, Stardew Valley: SetupFestivalDay",
+    "CleanupMethod": "StardewValley.Locations.DesertFestival, Stardew Valley: CleanupFestival",
+    "CustomFields": null
+  },
+  "TroutDerby": {
+    "DisplayName": "",
+    "Condition": "",
+    "ShowOnCalendar": false,
+    "Season": "Summer",
+    "StartDay": 20,
+    "EndDay": 21,
+    "StartTime": 610,
+    "StartMessage": "[LocalizedText Strings\\1_6_Strings:TroutDerby_NowOpen]",
+    "OnlyShowMessageOnFirstDay": true,
+    "MapReplacements": null,
+    "DailySetupMethod": null,
+    "CleanupMethod": null,
+    "CustomFields": null
+  },
+  "SquidFest": {
+    "DisplayName": "",
+    "Condition": "",
+    "ShowOnCalendar": false,
+    "Season": "Winter",
+    "StartDay": 12,
+    "EndDay": 13,
+    "StartTime": 610,
+    "StartMessage": "[LocalizedText Strings\\1_6_Strings:SquidFest_NowOpen]",
+    "OnlyShowMessageOnFirstDay": true,
+    "MapReplacements": null,
+    "DailySetupMethod": null,
+    "CleanupMethod": null,
+    "CustomFields": null
+  }
+}

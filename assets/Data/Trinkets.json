@@ -1,0 +1,93 @@
+{
+  "MagicHairDye": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:MagicHairDye_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:MagicHairDye_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 1,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.RainbowHairTrinketEffect",
+    "DropsNaturally": false,
+    "CanBeReforged": false,
+    "CustomFields": null,
+    "ModData": null
+  },
+  "FrogEgg": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:FrogEgg_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:FrogEgg_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 6,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.CompanionTrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": true,
+    "CustomFields": null,
+    "ModData": null
+  },
+  "MagicQuiver": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:MagicQuiver_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:MagicQuiver_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 73,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.MagicQuiverTrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": true,
+    "CustomFields": {
+      "IgnoreLocations": "Slime Hutch",
+      "IgnoreMonsters": "Truffle Crab"
+    },
+    "ModData": null
+  },
+  "FairyBox": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:FairyBox_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:FairyBox_Description2]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 74,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.FairyBoxTrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": true,
+    "CustomFields": null,
+    "ModData": null
+  },
+  "ParrotEgg": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:ParrotEgg_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:ParrotEgg_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 2,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.TrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": true,
+    "CustomFields": null,
+    "ModData": null
+  },
+  "IceRod": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:IceRod_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:IceRod_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 78,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.IceOrbTrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": true,
+    "CustomFields": null,
+    "ModData": null
+  },
+  "IridiumSpur": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:IridiumSpur_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:IridiumSpur_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 76,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.TrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": true,
+    "CustomFields": null,
+    "ModData": null
+  },
+  "BasiliskPaw": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:BasiliskPaw_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:BasiliskPaw_Description]",
+    "Texture": "TileSheets\\Objects_2",
+    "SheetIndex": 77,
+    "TrinketEffectClass": "StardewValley.Objects.Trinkets.TrinketEffect",
+    "DropsNaturally": true,
+    "CanBeReforged": false,
+    "CustomFields": null,
+    "ModData": null
+  }
+}

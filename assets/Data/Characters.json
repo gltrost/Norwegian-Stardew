@@ -1,0 +1,5366 @@
+{
+  "Abigail": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Abigail]",
+    "BirthSeason": "Fall",
+    "BirthDay": 13,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Teen",
+    "Manner": "Rude",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Sebastian",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 0,
+        "Y": 0,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 0,
+        "Y": 0,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          16,
+          500
+        ],
+        [
+          17,
+          500
+        ],
+        [
+          18,
+          500
+        ],
+        [
+          19,
+          500
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "2",
+      "1",
+      "3",
+      "2",
+      "3",
+      "2",
+      "6",
+      "4",
+      "6",
+      "4",
+      "5",
+      "6",
+      "4",
+      "7",
+      "7",
+      "1",
+      "0",
+      "6",
+      "1",
+      "0",
+      "7"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Caroline": "[LocalizedText Strings\\Characters:Relative_Mom]",
+      "Pierre": "[LocalizedText Strings\\Characters:Relative_Dad]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SeedShop",
+        "Tile": {
+          "X": 1,
+          "Y": 9
+        },
+        "Direction": "left"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Abigail_Winter",
+        "Sprite": "Characters/Abigail_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [
+      7
+    ],
+    "KissSpriteIndex": 33,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 0,
+    "CustomFields": null
+  },
+  "Caroline": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Caroline]",
+    "BirthSeason": "Winter",
+    "BirthDay": 7,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Pierre",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Pierre": "[LocalizedText Strings\\Characters:Relative_Husband]",
+      "Abigail": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SeedShop",
+        "Tile": {
+          "X": 22,
+          "Y": 5
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Caroline_Winter",
+        "Sprite": "Characters/Caroline_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 19,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 1,
+    "CustomFields": null
+  },
+  "Clint": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Clint]",
+    "BirthSeason": "Winter",
+    "BirthDay": 26,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Emily",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "DAY_OF_WEEK Friday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Emily": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [
+      {
+        "Condition": null,
+        "Id": "IridiumBar",
+        "ItemId": "(O)337",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Condition": null,
+        "Id": "GoldBars",
+        "ItemId": "(O)336",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 5,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Condition": null,
+        "Id": "Default",
+        "ItemId": null,
+        "RandomItemId": [
+          "(O)535",
+          "(O)536",
+          "(O)537"
+        ],
+        "MaxItems": null,
+        "MinStack": 5,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Blacksmith",
+        "Tile": {
+          "X": 3,
+          "Y": 13
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Clint_Winter",
+        "Sprite": "Characters/Clint_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 39,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 2,
+    "CustomFields": null
+  },
+  "Demetrius": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Demetrius]",
+    "BirthSeason": "Summer",
+    "BirthDay": 19,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Positive",
+    "IsDarkSkinned": true,
+    "CanBeRomanced": false,
+    "LoveInterest": "Robin",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Robin": "[LocalizedText Strings\\Characters:Relative_Wife]",
+      "Maru": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "ScienceHouse",
+        "Tile": {
+          "X": 19,
+          "Y": 4
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Demetrius_Winter",
+        "Sprite": "Characters/Demetrius_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 30,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 3,
+    "CustomFields": null
+  },
+  "Willy": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Willy]",
+    "BirthSeason": "Summer",
+    "BirthDay": 24,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Elliott": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [
+      {
+        "Condition": null,
+        "Id": "WarpTotemBeach",
+        "ItemId": "(O)690",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 25,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Condition": null,
+        "Id": "DressedSpinner",
+        "ItemId": "(O)687",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Condition": null,
+        "Id": "Magnet",
+        "ItemId": "(O)703",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "FishShop",
+        "Tile": {
+          "X": 5,
+          "Y": 4
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Willy_Winter",
+        "Sprite": "Characters/Willy_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 28,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 4,
+    "CustomFields": null
+  },
+  "Elliott": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Elliott]",
+    "BirthSeason": "Fall",
+    "BirthDay": 5,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Leah",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 18,
+        "Y": 9,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 12,
+        "Y": 4,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          33,
+          3000
+        ],
+        [
+          32,
+          500
+        ],
+        [
+          33,
+          3000
+        ],
+        [
+          32,
+          500
+        ],
+        [
+          33,
+          2000
+        ],
+        [
+          34,
+          1500
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Willy": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "ElliottHouse",
+        "Tile": {
+          "X": 1,
+          "Y": 5
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Elliott_Winter",
+        "Sprite": "Characters/Elliott_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 35,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 33,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 800.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 5,
+    "CustomFields": null
+  },
+  "Emily": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Emily]",
+    "BirthSeason": "Spring",
+    "BirthDay": 27,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!SEASON_DAY fall 15",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 6,
+        "Y": 18,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 4,
+        "Y": 8,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          54,
+          4000
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Haley": "[LocalizedText Strings\\Characters:Relative_Sister]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "HaleyHouse",
+        "Tile": {
+          "X": 16,
+          "Y": 5
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Emily_Winter",
+        "Sprite": "Characters/Emily_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 33,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 300.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 6,
+    "CustomFields": null
+  },
+  "Evelyn": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Evelyn]",
+    "BirthSeason": "Winter",
+    "BirthDay": 20,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "George",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "George": "[LocalizedText Strings\\Characters:Relative_Husband]",
+      "Alex": "[LocalizedText Strings\\Characters:Relative_Grandson]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [
+      {
+        "Condition": null,
+        "Id": "Cookies",
+        "ItemId": "(O)223",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "JoshHouse",
+        "Tile": {
+          "X": 2,
+          "Y": 17
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Evelyn_Winter",
+        "Sprite": "Characters/Evelyn_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 20,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 7,
+    "CustomFields": null
+  },
+  "George": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:George]",
+    "BirthSeason": "Fall",
+    "BirthDay": 24,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Evelyn",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Evelyn": "[LocalizedText Strings\\Characters:Relative_Wife]",
+      "Alex": "[LocalizedText Strings\\Characters:Relative_Grandson]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "JoshHouse",
+        "Tile": {
+          "X": 16,
+          "Y": 22
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/George_Winter",
+        "Sprite": "Characters/George_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 400.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 8,
+    "CustomFields": null
+  },
+  "Gus": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Gus]",
+    "BirthSeason": "Summer",
+    "BirthDay": 8,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Emily": "",
+      "Pam": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Saloon",
+        "Tile": {
+          "X": 18,
+          "Y": 6
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Gus_Winter",
+        "Sprite": "Characters/Gus_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 18,
+    "HiddenProfileEmoteFrameCount": 3,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 9,
+    "CustomFields": null
+  },
+  "Haley": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Haley]",
+    "BirthSeason": "Spring",
+    "BirthDay": 14,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Alex",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 18,
+        "Y": 0,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 12,
+        "Y": 0,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          30,
+          2000
+        ],
+        [
+          31,
+          200
+        ],
+        [
+          24,
+          2000
+        ],
+        [
+          25,
+          1000
+        ],
+        [
+          32,
+          200
+        ],
+        [
+          33,
+          2000
+        ],
+        [
+          32,
+          200
+        ],
+        [
+          25,
+          200
+        ],
+        [
+          32,
+          200
+        ],
+        [
+          33,
+          2000
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "1",
+      "7",
+      "1",
+      "0",
+      "3",
+      "5",
+      "4",
+      "9",
+      "8",
+      "4",
+      "9",
+      "9"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Emily": "[LocalizedText Strings\\Characters:Relative_Sister]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "HaleyHouse",
+        "Tile": {
+          "X": 8,
+          "Y": 7
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Haley_Winter",
+        "Sprite": "Characters/Haley_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [
+      5
+    ],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 26,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 10,
+    "CustomFields": null
+  },
+  "Harvey": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Harvey]",
+    "BirthSeason": "Winter",
+    "BirthDay": 14,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Maru",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!DAY_OF_WEEK Tuesday Thursday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 12,
+        "Y": 9,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 8,
+        "Y": 4,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          42,
+          6000
+        ],
+        [
+          43,
+          1000
+        ],
+        [
+          39,
+          100
+        ],
+        [
+          43,
+          500
+        ],
+        [
+          39,
+          100
+        ],
+        [
+          43,
+          1000
+        ],
+        [
+          42,
+          5000
+        ],
+        [
+          43,
+          3000
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "HarveyRoom",
+        "Tile": {
+          "X": 13,
+          "Y": 4
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Harvey_Winter",
+        "Sprite": "Characters/Harvey_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 31,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 20,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 800.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 11,
+    "CustomFields": null
+  },
+  "Jas": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Jas]",
+    "BirthSeason": "Summer",
+    "BirthDay": 4,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Child",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Vincent",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!DAY_OF_WEEK Tuesday Wednesday Friday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Vincent": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "AnimalShop",
+        "Tile": {
+          "X": 4,
+          "Y": 6
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Jas_Winter",
+        "Sprite": "Characters/Jas_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 100.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 12,
+    "CustomFields": null
+  },
+  "Jodi": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Jodi]",
+    "BirthSeason": "Fall",
+    "BirthDay": 11,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Kent",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Sam": "[LocalizedText Strings\\Characters:Relative_EldestSon]",
+      "Vincent": "[LocalizedText Strings\\Characters:Relative_YoungestSon]",
+      "Kent": "[LocalizedText Strings\\Characters:Relative_Husband]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SamHouse",
+        "Tile": {
+          "X": 4,
+          "Y": 5
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Jodi_Winter",
+        "Sprite": "Characters/Jodi_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 13,
+    "CustomFields": null
+  },
+  "Alex": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Alex]",
+    "BirthSeason": "Summer",
+    "BirthDay": 13,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Haley",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 6,
+        "Y": 9,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 4,
+        "Y": 4,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          34,
+          4000
+        ],
+        [
+          33,
+          300
+        ],
+        [
+          28,
+          200
+        ],
+        [
+          29,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          31,
+          100
+        ],
+        [
+          32,
+          100
+        ],
+        [
+          31,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          29,
+          100
+        ],
+        [
+          28,
+          800
+        ],
+        [
+          29,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          31,
+          100
+        ],
+        [
+          32,
+          100
+        ],
+        [
+          31,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          29,
+          100
+        ],
+        [
+          28,
+          800
+        ],
+        [
+          33,
+          200
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "6"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "George": "[LocalizedText Strings\\Characters:Relative_Grandpa]",
+      "Evelyn": "[LocalizedText Strings\\Characters:Relative_Grandma]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "JoshHouse",
+        "Tile": {
+          "X": 19,
+          "Y": 5
+        },
+        "Direction": "left"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Alex_Winter",
+        "Sprite": "Characters/Alex_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 42,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 8,
+    "HiddenProfileEmoteFrameDuration": 170.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 14,
+    "CustomFields": null
+  },
+  "Kent": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Kent]",
+    "BirthSeason": "Spring",
+    "BirthDay": 4,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Jodi",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "AlwaysShown",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Jodi": "[LocalizedText Strings\\Characters:Relative_Wife]",
+      "Sam": "[LocalizedText Strings\\Characters:Relative_EldestSon]",
+      "Vincent": "[LocalizedText Strings\\Characters:Relative_YoungestBoy]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": "YEAR 2",
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SamHouse",
+        "Tile": {
+          "X": 22,
+          "Y": 5
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Kent_Winter",
+        "Sprite": "Characters/Kent_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 15,
+    "CustomFields": null
+  },
+  "Leah": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Leah]",
+    "BirthSeason": "Winter",
+    "BirthDay": 23,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Elliott",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 12,
+        "Y": 0,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 8,
+        "Y": 0,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          16,
+          100
+        ],
+        [
+          17,
+          100
+        ],
+        [
+          18,
+          100
+        ],
+        [
+          19,
+          300
+        ],
+        [
+          16,
+          100
+        ],
+        [
+          17,
+          100
+        ],
+        [
+          18,
+          100
+        ],
+        [
+          19,
+          1000
+        ],
+        [
+          16,
+          100
+        ],
+        [
+          17,
+          100
+        ],
+        [
+          18,
+          100
+        ],
+        [
+          19,
+          300
+        ],
+        [
+          16,
+          100
+        ],
+        [
+          17,
+          100
+        ],
+        [
+          18,
+          100
+        ],
+        [
+          19,
+          300
+        ],
+        [
+          16,
+          100
+        ],
+        [
+          17,
+          100
+        ],
+        [
+          18,
+          100
+        ],
+        [
+          19,
+          2000
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "4",
+      "4",
+      "1",
+      "0",
+      "8",
+      "4",
+      "3",
+      "4",
+      "5",
+      "9",
+      "2",
+      "3",
+      "7",
+      "2",
+      "9"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "LeahHouse",
+        "Tile": {
+          "X": 3,
+          "Y": 7
+        },
+        "Direction": "left"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Leah_Winter",
+        "Sprite": "Characters/Leah_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 25,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 16,
+    "CustomFields": null
+  },
+  "Lewis": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Lewis]",
+    "BirthSeason": "Spring",
+    "BirthDay": 7,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "AlwaysShown",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Marnie": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "ManorHouse",
+        "Tile": {
+          "X": 8,
+          "Y": 5
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Lewis_Winter",
+        "Sprite": "Characters/Lewis_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 24,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 170.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 17,
+    "CustomFields": null
+  },
+  "Linus": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Linus]",
+    "BirthSeason": "Winter",
+    "BirthDay": 3,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": 5,
+    "DumpsterDiveEmote": 32,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Tent",
+        "Tile": {
+          "X": 2,
+          "Y": 2
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Linus_Winter",
+        "Sprite": "Characters/Linus_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 22,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 18,
+    "CustomFields": null
+  },
+  "Marlon": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Marlon]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Marnie",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "FALSE",
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "AdventureGuild",
+        "Tile": {
+          "X": 5,
+          "Y": 11
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 19,
+    "CustomFields": null
+  },
+  "Marnie": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Marnie]",
+    "BirthSeason": "Fall",
+    "BirthDay": 18,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Lewis",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "DAY_OF_WEEK Monday Tuesday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Lewis": "",
+      "Shane": "[LocalizedText Strings\\Characters:Relative_Nephew]",
+      "Jas": "[LocalizedText Strings\\Characters:Relative_Niece]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [
+      {
+        "Condition": null,
+        "Id": "Egg",
+        "ItemId": "(O)176",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 12,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "AnimalShop",
+        "Tile": {
+          "X": 12,
+          "Y": 14
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Marnie_Winter",
+        "Sprite": "Characters/Marnie_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 28,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 120.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 20,
+    "CustomFields": null
+  },
+  "Maru": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Maru]",
+    "BirthSeason": "Summer",
+    "BirthDay": 10,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Teen",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": true,
+    "CanBeRomanced": true,
+    "LoveInterest": "Harvey",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!DAY_OF_WEEK Tuesday Thursday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 24,
+        "Y": 0,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 16,
+        "Y": 0,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          16,
+          4000
+        ],
+        [
+          17,
+          200
+        ],
+        [
+          18,
+          200
+        ],
+        [
+          19,
+          200
+        ],
+        [
+          20,
+          200
+        ],
+        [
+          21,
+          200
+        ],
+        [
+          22,
+          200
+        ],
+        [
+          23,
+          200
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Robin": "[LocalizedText Strings\\Characters:Relative_Mom]",
+      "Demetrius": "[LocalizedText Strings\\Characters:Relative_Dad]",
+      "Sebastian": "[LocalizedText Strings\\Characters:Relative_HalfBrother]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "ScienceHouse",
+        "Tile": {
+          "X": 2,
+          "Y": 4
+        },
+        "Direction": "left"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "WorkOutfit",
+        "Condition": "LOCATION_NAME Target Hospital",
+        "Season": null,
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Maru_Hospital",
+        "Sprite": "Characters/Maru_Hospital",
+        "IsIslandAttire": false,
+        "Precedence": -1000,
+        "Weight": 1
+      },
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Maru_Winter",
+        "Sprite": "Characters/Maru_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [
+      9
+    ],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 8,
+    "HiddenProfileEmoteFrameDuration": 150.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 21,
+    "CustomFields": null
+  },
+  "Pam": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Pam]",
+    "BirthSeason": "Spring",
+    "BirthDay": 18,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Gus",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!SEASON_DAY fall 15",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Penny": "[LocalizedText Strings\\Characters:Relative_LittleBabyGirl]",
+      "Gus": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Trailer",
+        "Tile": {
+          "X": 15,
+          "Y": 4
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Pam_Winter",
+        "Sprite": "Characters/Pam_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [
+      3
+    ],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 28,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 22,
+    "CustomFields": null
+  },
+  "Penny": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Penny]",
+    "BirthSeason": "Fall",
+    "BirthDay": 2,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Teen",
+    "Manner": "Polite",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Sam",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!DAY_OF_WEEK Tuesday Wednesday Friday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 6,
+        "Y": 0,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 4,
+        "Y": 0,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          18,
+          6000
+        ],
+        [
+          19,
+          500
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Pam": "[LocalizedText Strings\\Characters:Relative_Mother]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Trailer",
+        "Tile": {
+          "X": 4,
+          "Y": 9
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Penny_Winter",
+        "Sprite": "Characters/Penny_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 35,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 18,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 1000.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 23,
+    "CustomFields": null
+  },
+  "Pierre": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Pierre]",
+    "BirthSeason": "Spring",
+    "BirthDay": 26,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Caroline",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Abigail": "[LocalizedText Strings\\Characters:Relative_Daughter]",
+      "Caroline": "[LocalizedText Strings\\Characters:Relative_Wife]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SeedShop",
+        "Tile": {
+          "X": 4,
+          "Y": 17
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Pierre_Winter",
+        "Sprite": "Characters/Pierre_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 23,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 24,
+    "CustomFields": null
+  },
+  "Robin": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Robin]",
+    "BirthSeason": "Fall",
+    "BirthDay": 21,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Demetrius",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "AlwaysShown",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "DAY_OF_WEEK Tuesday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Demetrius": "[LocalizedText Strings\\Characters:Relative_Husband]",
+      "Maru": "[LocalizedText Strings\\Characters:Relative_Daughter]",
+      "Sebastian": "[LocalizedText Strings\\Characters:Relative_Son]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [
+      {
+        "Condition": null,
+        "Id": "Wood",
+        "ItemId": "(O)388",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 99,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Condition": null,
+        "Id": "Stone",
+        "ItemId": "(O)390",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 50,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Condition": null,
+        "Id": "Hardwood",
+        "ItemId": "(O)709",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 25,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "ScienceHouse",
+        "Tile": {
+          "X": 21,
+          "Y": 4
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Robin_Winter",
+        "Sprite": "Characters/Robin_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 32,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 120.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 25,
+    "CustomFields": null
+  },
+  "Sam": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Sam]",
+    "BirthSeason": "Summer",
+    "BirthDay": 17,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Teen",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Penny",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 24,
+        "Y": 9,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 16,
+        "Y": 4,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          25,
+          3000
+        ],
+        [
+          27,
+          500
+        ],
+        [
+          26,
+          100
+        ],
+        [
+          28,
+          100
+        ],
+        [
+          27,
+          500
+        ],
+        [
+          25,
+          2000
+        ],
+        [
+          27,
+          500
+        ],
+        [
+          26,
+          100
+        ],
+        [
+          29,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          32,
+          500
+        ],
+        [
+          31,
+          1000
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          29,
+          100
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Vincent": "[LocalizedText Strings\\Characters:Relative_LittleBrother]",
+      "Jodi": "[LocalizedText Strings\\Characters:Relative_Mom]",
+      "Kent": "[LocalizedText Strings\\Characters:Relative_Dad]",
+      "Sebastian": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SamHouse",
+        "Tile": {
+          "X": 22,
+          "Y": 13
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "WorkOutfit",
+        "Condition": "Any \"LOCATION_NAME Target JojaMart\" \"LOCATION_NAME Target ArchaeologyHouse\"",
+        "Season": null,
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Sam_JojaMart",
+        "Sprite": "Characters/Sam_JojaMart",
+        "IsIslandAttire": false,
+        "Precedence": -1000,
+        "Weight": 1
+      },
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Sam_Winter",
+        "Sprite": "Characters/Sam_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 36,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 20,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 300.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 26,
+    "CustomFields": null
+  },
+  "Sebastian": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Sebastian]",
+    "BirthSeason": "Winter",
+    "BirthDay": 10,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Teen",
+    "Manner": "Rude",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "Abigail",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 0,
+        "Y": 9,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 0,
+        "Y": 4,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          32,
+          500
+        ],
+        [
+          36,
+          500
+        ],
+        [
+          32,
+          500
+        ],
+        [
+          36,
+          500
+        ],
+        [
+          32,
+          500
+        ],
+        [
+          36,
+          500
+        ],
+        [
+          32,
+          500
+        ],
+        [
+          36,
+          2000
+        ],
+        [
+          33,
+          100
+        ],
+        [
+          34,
+          100
+        ],
+        [
+          35,
+          3000
+        ],
+        [
+          34,
+          100
+        ],
+        [
+          33,
+          100
+        ],
+        [
+          32,
+          1500
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 16,
+        "Y": 40
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "3",
+      "4",
+      "1",
+      "2",
+      "1",
+      "4",
+      "3",
+      "0",
+      "4",
+      "6",
+      "4",
+      "7",
+      "5",
+      "6",
+      "5",
+      "8",
+      "5",
+      "9",
+      "1",
+      "0",
+      "7"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Robin": "[LocalizedText Strings\\Characters:Relative_Mom]",
+      "Maru": "[LocalizedText Strings\\Characters:Relative_HalfSister]",
+      "Sam": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SebastianRoom",
+        "Tile": {
+          "X": 10,
+          "Y": 9
+        },
+        "Direction": "right"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Sebastian_Winter",
+        "Sprite": "Characters/Sebastian_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 40,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 8,
+    "HiddenProfileEmoteFrameDuration": 180.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 27,
+    "CustomFields": null
+  },
+  "Shane": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Shane]",
+    "BirthSeason": "Spring",
+    "BirthDay": 20,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": true,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 0,
+        "Y": 18,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 0,
+        "Y": 8,
+        "Width": 4,
+        "Height": 4
+      },
+      "SpriteAnimationFrames": [
+        [
+          28,
+          4000
+        ],
+        [
+          29,
+          800
+        ]
+      ],
+      "SpriteAnimationPixelOffset": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "6",
+      "2",
+      "1",
+      "6",
+      "0"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Marnie": "[LocalizedText Strings\\Characters:Relative_Aunt]"
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "AnimalShop",
+        "Tile": {
+          "X": 25,
+          "Y": 6
+        },
+        "Direction": "left"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "WorkOutfit",
+        "Condition": "LOCATION_NAME Target JojaMart",
+        "Season": null,
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Shane_JojaMart",
+        "Sprite": "Characters/Shane_JojaMart",
+        "IsIslandAttire": false,
+        "Precedence": -1000,
+        "Weight": 1
+      },
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Shane_Winter",
+        "Sprite": "Characters/Shane_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 34,
+    "KissSpriteFacingRight": false,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 28,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 500.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 28,
+    "CustomFields": null
+  },
+  "Vincent": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Vincent]",
+    "BirthSeason": "Spring",
+    "BirthDay": 10,
+    "HomeRegion": "Town",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Child",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "Jas",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "!DAY_OF_WEEK Tuesday Wednesday Friday",
+    "IntroductionsQuest": null,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Jas": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SamHouse",
+        "Tile": {
+          "X": 10,
+          "Y": 23
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/Vincent_Winter",
+        "Sprite": "Characters/Vincent_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 18,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 600.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 29,
+    "CustomFields": null
+  },
+  "Wizard": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Wizard]",
+    "BirthSeason": "Winter",
+    "BirthDay": 17,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Rude",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Negative",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "AlwaysShown",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "TrailingGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "WizardHouse",
+        "Tile": {
+          "X": 3,
+          "Y": 17
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 170.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 30,
+    "CustomFields": null
+  },
+  "Dwarf": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Dwarf]",
+    "BirthSeason": "Summer",
+    "BirthDay": 22,
+    "HomeRegion": "Other",
+    "Language": "Dwarvish",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "HiddenUntilMet",
+    "SocialTab": "HiddenUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "TrailingGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Mine",
+        "Tile": {
+          "X": 43,
+          "Y": 6
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 24
+    },
+    "Breather": false,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 100.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 31,
+    "CustomFields": null
+  },
+  "Sandy": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Sandy]",
+    "BirthSeason": "Fall",
+    "BirthDay": 15,
+    "HomeRegion": "Desert",
+    "Language": "Default",
+    "Gender": "Female",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Outgoing",
+    "Optimism": "Positive",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "HiddenUntilMet",
+    "SocialTab": "UnknownUntilMet",
+    "CanSocialize": "PLAYER_HAS_SEEN_EVENT Any 67",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "PLAYER_HAS_SEEN_EVENT Any 67",
+    "PerfectionScore": true,
+    "EndSlideShow": "TrailingGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {
+      "Emily": ""
+    },
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SandyHouse",
+        "Tile": {
+          "X": 2,
+          "Y": 5
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 16,
+    "HiddenProfileEmoteFrameCount": 2,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 32,
+    "CustomFields": null
+  },
+  "Krobus": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Krobus]",
+    "BirthSeason": "Winter",
+    "BirthDay": 1,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Adult",
+    "Manner": "Polite",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": "",
+    "Calendar": "HiddenUntilMet",
+    "SocialTab": "HiddenUntilMet",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": "FALSE",
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "TrailingGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": {
+      "MapAsset": null,
+      "MapSourceRect": {
+        "X": 12,
+        "Y": 18,
+        "Width": 6,
+        "Height": 9
+      }
+    },
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [
+      "2",
+      "3",
+      "2",
+      "4"
+    ],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Sewer",
+        "Tile": {
+          "X": 31,
+          "Y": 17
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [
+      {
+        "Id": "MovieTheater",
+        "Condition": "ANY \"LOCATION_NAME Target MovieTheater\" \"IS_EVENT MovieTheaterScreening\"",
+        "Season": null,
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": null,
+        "Sprite": "Characters/Krobus_Trenchcoat",
+        "IsIslandAttire": false,
+        "Precedence": -1000,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 24
+    },
+    "Breather": false,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 16,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": 20,
+    "HiddenProfileEmoteFrameCount": 4,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 33,
+    "CustomFields": null
+  },
+  "Leo": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Leo]",
+    "BirthSeason": "Summer",
+    "BirthDay": 26,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Male",
+    "Age": "Child",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Shy",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "AlwaysShown",
+    "CanSocialize": null,
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": true,
+    "EndSlideShow": "MainGroup",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": "PLAYER_HAS_MAIL Host leoMoved",
+    "UnlockConditions": "PLAYER_HAS_MAIL Host addedParrotBoy",
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Valley",
+        "Condition": "PLAYER_HAS_MAIL Host leoMoved",
+        "Location": "LeoTreeHouse",
+        "Tile": {
+          "X": 5,
+          "Y": 4
+        },
+        "Direction": "down"
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "IslandHut",
+        "Tile": {
+          "X": 5,
+          "Y": 6
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": "ParrotBoy",
+    "Appearance": [
+      {
+        "Id": "Winter",
+        "Condition": null,
+        "Season": "Winter",
+        "Indoors": true,
+        "Outdoors": true,
+        "Portrait": "Portraits/ParrotBoy_Winter",
+        "Sprite": "Characters/ParrotBoy_Winter",
+        "IsIslandAttire": false,
+        "Precedence": -100,
+        "Weight": 1
+      }
+    ],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": false,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": "parrot_squawk",
+    "HiddenProfileEmoteDuration": 300,
+    "HiddenProfileEmoteStartFrame": 17,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": 34,
+    "CustomFields": null
+  },
+  "???": {
+    "DisplayName": "???",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": null,
+    "TextureName": "Monsters\\Shadow_Brute",
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Bear": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Bear]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": null,
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Birdie": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Birdie]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "IslandWest",
+        "Tile": {
+          "X": 17,
+          "Y": 58
+        },
+        "Direction": "left"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Bouncer": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Bouncer]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "FALSE",
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": "!PLAYER_HAS_MAIL Any bouncerGone",
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "SandyHouse",
+        "Tile": {
+          "X": 17,
+          "Y": 3
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Gil": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Gil]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "AdventureGuild",
+        "Tile": {
+          "X": 0,
+          "Y": 0
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Governor": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Governor]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": null,
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Grandpa": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Grandpa]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": null,
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Gunther": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Gunther]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "FALSE",
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "ArchaeologyHouse",
+        "Tile": {
+          "X": 3,
+          "Y": 8
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Henchman": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Henchman]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "FALSE",
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": "!PLAYER_HAS_MAIL Any henchmanGone",
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "WitchSwamp",
+        "Tile": {
+          "X": 20,
+          "Y": 29
+        },
+        "Direction": "down"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Mister Qi": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:MisterQi]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "FALSE",
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": true,
+    "Home": [
+      {
+        "Id": "QiNutRoom",
+        "Condition": "HAS_TARGET_LOCATION, LOCATION_NAME Target QiNutRoom",
+        "Location": "QiNutRoom",
+        "Tile": {
+          "X": 7,
+          "Y": 4
+        },
+        "Direction": "up"
+      },
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Club",
+        "Tile": {
+          "X": 8,
+          "Y": 4
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": "MrQi",
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Morris": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Morris]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "JojaMart",
+        "Tile": {
+          "X": 0,
+          "Y": 0
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Old Mariner": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:OldMariner]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": "FALSE",
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": [
+      {
+        "Id": "Default",
+        "Condition": null,
+        "Location": "Beach",
+        "Tile": {
+          "X": 0,
+          "Y": 0
+        },
+        "Direction": "up"
+      }
+    ],
+    "TextureName": "Mariner",
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  },
+  "Welwick": {
+    "DisplayName": "[LocalizedText Strings\\NPCNames:Welwick]",
+    "BirthSeason": null,
+    "BirthDay": 0,
+    "HomeRegion": "Other",
+    "Language": "Default",
+    "Gender": "Undefined",
+    "Age": "Adult",
+    "Manner": "Neutral",
+    "SocialAnxiety": "Neutral",
+    "Optimism": "Neutral",
+    "IsDarkSkinned": false,
+    "CanBeRomanced": false,
+    "LoveInterest": null,
+    "Calendar": "AlwaysShown",
+    "SocialTab": "HiddenAlways",
+    "CanSocialize": "FALSE",
+    "CanReceiveGifts": true,
+    "CanGreetNearbyCharacters": true,
+    "CanCommentOnPurchasedShopItems": null,
+    "CanVisitIsland": null,
+    "IntroductionsQuest": false,
+    "ItemDeliveryQuests": null,
+    "PerfectionScore": false,
+    "EndSlideShow": "Hidden",
+    "SpouseAdopts": null,
+    "SpouseWantsChildren": null,
+    "SpouseGiftJealousy": null,
+    "SpouseGiftJealousyFriendshipChange": -30,
+    "SpouseRoom": null,
+    "SpousePatio": null,
+    "SpouseFloors": [],
+    "SpouseWallpapers": [],
+    "DumpsterDiveFriendshipEffect": -25,
+    "DumpsterDiveEmote": null,
+    "FriendsAndFamily": {},
+    "FlowerDanceCanDance": null,
+    "WinterStarGifts": [],
+    "WinterStarParticipant": null,
+    "UnlockConditions": null,
+    "SpawnIfMissing": false,
+    "Home": null,
+    "TextureName": null,
+    "Appearance": [],
+    "MugShotSourceRect": null,
+    "Size": {
+      "X": 16,
+      "Y": 32
+    },
+    "Breather": true,
+    "BreathChestRect": null,
+    "BreathChestPosition": null,
+    "Shadow": null,
+    "EmoteOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShakePortraits": [],
+    "KissSpriteIndex": 28,
+    "KissSpriteFacingRight": true,
+    "HiddenProfileEmoteSound": null,
+    "HiddenProfileEmoteDuration": -1,
+    "HiddenProfileEmoteStartFrame": -1,
+    "HiddenProfileEmoteFrameCount": 1,
+    "HiddenProfileEmoteFrameDuration": 200.0,
+    "FormerCharacterNames": [],
+    "FestivalVanillaActorIndex": -1,
+    "CustomFields": null
+  }
+}

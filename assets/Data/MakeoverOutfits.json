@@ -1,0 +1,1274 @@
+[
+  {
+    "Id": "DarkBallCap_SkeletonShirt_TightPants",
+    "OutfitParts": [
+      {
+        "Id": "DarkBallcap",
+        "ItemId": "(H)DarkBallcap",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "SkeletonShirt",
+        "ItemId": "(S)1014",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "TightPants",
+        "ItemId": "(P)9",
+        "Color": "223 213 183",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "DinosaurHat_RedStripedShirt_DinosaurPants",
+    "OutfitParts": [
+      {
+        "Id": "DinosaurHat",
+        "ItemId": "(H)43",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "DinosaurPants",
+        "ItemId": "(P)5",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "RedStripedShirt",
+        "ItemId": "(S)1013",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "Beanie_ClassyTop_Dress",
+    "OutfitParts": [
+      {
+        "Id": "SpottedHeadscarf",
+        "ItemId": "(H)52",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Dress",
+        "ItemId": "(P)2",
+        "Color": "142 1 1",
+        "Gender": null
+      },
+      {
+        "Id": "ClassyTopF",
+        "ItemId": "(S)1202",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "HairBone_CavemanShirt_GrassSkirt",
+    "OutfitParts": [
+      {
+        "Id": "HairBone",
+        "ItemId": "(H)49",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "GrassSkirt",
+        "ItemId": "(P)6",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "CavemanShirt",
+        "ItemId": "(S)1156",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "SantaHat_FancyRedBlouse_Shorts",
+    "OutfitParts": [
+      {
+        "Id": "SantaHat",
+        "ItemId": "(H)25",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Shorts",
+        "ItemId": "(P)1",
+        "Color": "139 255 99",
+        "Gender": null
+      },
+      {
+        "Id": "FancyRedBlouse",
+        "ItemId": "(S)1035",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "CatEars_ShortJacket_GeniePants",
+    "OutfitParts": [
+      {
+        "Id": "CatEars",
+        "ItemId": "(H)32",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "GeniePants",
+        "ItemId": "(P)8",
+        "Color": "232 216 136",
+        "Gender": null
+      },
+      {
+        "Id": "ShortJacket",
+        "ItemId": "(S)1271",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "Goggles_CircuitboardShirt_BaggyPants",
+    "OutfitParts": [
+      {
+        "Id": "Goggles",
+        "ItemId": "(H)89",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "BaggyPants",
+        "ItemId": "(P)10",
+        "Color": "60 99 62",
+        "Gender": null
+      },
+      {
+        "Id": "CircuitboardShirt",
+        "ItemId": "(S)1234",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt89_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "150 88 211",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1089",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "JojaCap_Shirt105_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "JojaCap",
+        "ItemId": "(H)JojaCap",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "46 85 183",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1105",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "Beanie_SkullShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "Beanie",
+        "ItemId": "(H)53",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "40 40 40",
+        "Gender": null
+      },
+      {
+        "Id": "SkullShirt",
+        "ItemId": "(S)1004",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_GraySuit_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "152 155 146",
+        "Gender": null
+      },
+      {
+        "Id": "GraySuit",
+        "ItemId": "(S)1183",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "LogoCap_SugarShirt_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "LogoCap",
+        "ItemId": "(H)45",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "249 172 186",
+        "Gender": null
+      },
+      {
+        "Id": "SugarShirt",
+        "ItemId": "(S)1254",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "LaurelWreathCrown_TogaShirt_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "LaurelWreathCrown",
+        "ItemId": "(H)LaurelWreathCrown",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "247 245 205",
+        "Gender": null
+      },
+      {
+        "Id": "TogaShirt",
+        "ItemId": "(S)1199",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt72_SimpleDress",
+    "OutfitParts": [
+      {
+        "Id": "SimpleDress",
+        "ItemId": "(P)11",
+        "Color": "105 142 198",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1072",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "Daisy_Shirt118_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "Daisy",
+        "ItemId": "(H)29",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "93 164 247",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1118",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "StrawHat_YellowSuit_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "StrawHat",
+        "ItemId": "(H)4",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "242 189 2",
+        "Gender": null
+      },
+      {
+        "Id": "YellowSuit",
+        "ItemId": "(S)1294",
+        "Color": "0 50 200",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "StrawHat_GreenButtonedVest_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "StrawHat",
+        "ItemId": "(H)4",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "30 150 71",
+        "Gender": null
+      },
+      {
+        "Id": "GreenButtonedVest",
+        "ItemId": "(S)1281",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "GnomesCap_GreenTunic_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "GnomesCap",
+        "ItemId": "(H)23",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "41 114 22",
+        "Gender": null
+      },
+      {
+        "Id": "GreenTunic",
+        "ItemId": "(S)1034",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "CowboyHat_ExcavatorShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "CowboyHat",
+        "ItemId": "(H)0",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "168 111 1",
+        "Gender": null
+      },
+      {
+        "Id": "ExcavatorShirt",
+        "ItemId": "(S)1208",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "GoodOlCap_BrownOveralls_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "GoodOlCap",
+        "ItemId": "(H)18",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "130 78 1",
+        "Gender": null
+      },
+      {
+        "Id": "BrownOveralls",
+        "ItemId": "(S)1266",
+        "Color": "Red",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_BlackLeatherJacket_BaggyPants",
+    "OutfitParts": [
+      {
+        "Id": "BaggyPants",
+        "ItemId": "(P)10",
+        "Color": "48 48 48",
+        "Gender": null
+      },
+      {
+        "Id": "BlackLeatherJacket",
+        "ItemId": "(S)1138",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_Shirt99_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "53 53 53",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1099",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_StoreOwnersJacket_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "37 86 42",
+        "Gender": null
+      },
+      {
+        "Id": "StoreOwnersJacket",
+        "ItemId": "(S)1030",
+        "Color": null,
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "WatermelonBand_Shirt_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "WatermelonBand",
+        "ItemId": "(H)30",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "83 209 171",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1106",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "DelicateBow_Shirt93_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "DelicateBow",
+        "ItemId": "(H)12",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "242 87 105",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1092",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt89_Shorts",
+    "OutfitParts": [
+      {
+        "Id": "Shorts",
+        "ItemId": "(P)1",
+        "Color": "99 221 141",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1088",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt104_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "53 55 58",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1103",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "None_SailorShirt_Shorts",
+    "OutfitParts": [
+      {
+        "Id": "Shorts",
+        "ItemId": "(P)1",
+        "Color": "70 90 163",
+        "Gender": null
+      },
+      {
+        "Id": "SailorShirt",
+        "ItemId": "(S)1019",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt51_PleatedSkirt",
+    "OutfitParts": [
+      {
+        "Id": "PleatedSkirt",
+        "ItemId": "(P)4",
+        "Color": "252 146 152",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1050",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "None_DarkShirt_TightPants",
+    "OutfitParts": [
+      {
+        "Id": "TightPants",
+        "ItemId": "(P)9",
+        "Color": "81 81 81",
+        "Gender": null
+      },
+      {
+        "Id": "DarkShirt",
+        "ItemId": "(S)1003",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "TotemMask_FakeMusclesShirt_Shorts",
+    "OutfitParts": [
+      {
+        "Id": "TotemMask",
+        "ItemId": "(H)44",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Shorts",
+        "ItemId": "(P)1",
+        "Color": "18 140 23",
+        "Gender": null
+      },
+      {
+        "Id": "FakeMusclesShirt",
+        "ItemId": "(S)1153",
+        "Color": "249 174 137",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_CropTankTop_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "104 53 53",
+        "Gender": null
+      },
+      {
+        "Id": "CropTankTopF",
+        "ItemId": "(S)1133",
+        "Color": "255 235 203",
+        "Gender": "Female"
+      },
+      {
+        "Id": "CropTankTopM",
+        "ItemId": "(S)1132",
+        "Color": "255 235 203",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_BasicPullover_RelaxedFitShorts",
+    "OutfitParts": [
+      {
+        "Id": "RelaxedFitShorts",
+        "ItemId": "(P)13",
+        "Color": "89 151 209",
+        "Gender": null
+      },
+      {
+        "Id": "BasicPulloverF",
+        "ItemId": "(S)1177",
+        "Color": "255 198 0",
+        "Gender": "Female"
+      },
+      {
+        "Id": "BasicPulloverM",
+        "ItemId": "(S)1176",
+        "Color": "255 198 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_High-WaistedShirtBottom_PleatedSkirt",
+    "OutfitParts": [
+      {
+        "Id": "PleatedSkirt",
+        "ItemId": "(P)4",
+        "Color": "29 163 98",
+        "Gender": null
+      },
+      {
+        "Id": "High-WaistedShirt",
+        "ItemId": "(S)1174",
+        "Color": "29 163 98",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "None_TubeTop_TightPants",
+    "OutfitParts": [
+      {
+        "Id": "TightPants",
+        "ItemId": "(P)9",
+        "Color": "151 255 114",
+        "Gender": null
+      },
+      {
+        "Id": "TubeTop",
+        "ItemId": "(S)1142",
+        "Color": "151 255 114",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "MouseEars_Shirt67_Shorts",
+    "OutfitParts": [
+      {
+        "Id": "MouseEars",
+        "ItemId": "(H)31",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "Shorts",
+        "ItemId": "(P)1",
+        "Color": "183 163 163",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1066",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_SlimeShirt_SimpleDress",
+    "OutfitParts": [
+      {
+        "Id": "SimpleDress",
+        "ItemId": "(P)11",
+        "Color": "57 204 44",
+        "Gender": null
+      },
+      {
+        "Id": "SlimeShirt",
+        "ItemId": "(S)1207",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "PropellerHat_JesterShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "PropellerHat",
+        "ItemId": "(H)68",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "2 184 224",
+        "Gender": null
+      },
+      {
+        "Id": "JesterShirt",
+        "ItemId": "(S)1192",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_CrabCakeShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "191 33 22",
+        "Gender": null
+      },
+      {
+        "Id": "CrabCakeShirt",
+        "ItemId": "(S)1276",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "Sou'Wester_RainCoat_RelaxedFitPants",
+    "OutfitParts": [
+      {
+        "Id": "Souwester",
+        "ItemId": "(H)28",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "RelaxedFitPants",
+        "ItemId": "(P)12",
+        "Color": "255 169 2",
+        "Gender": null
+      },
+      {
+        "Id": "RainCoat",
+        "ItemId": "(S)1260",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_CamoShirt_RelaxedFitPants",
+    "OutfitParts": [
+      {
+        "Id": "RelaxedFitPants",
+        "ItemId": "(P)12",
+        "Color": "107 63 23",
+        "Gender": null
+      },
+      {
+        "Id": "CamoShirt",
+        "ItemId": "(S)1274",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_CollaredShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "226 172 90",
+        "Gender": null
+      },
+      {
+        "Id": "CollaredShirt",
+        "ItemId": "(S)1248",
+        "Color": "99 204 185",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "HardHat_OilStainedShirt_RelaxedFitPants",
+    "OutfitParts": [
+      {
+        "Id": "HardHat",
+        "ItemId": "(H)27",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "RelaxedFitPants",
+        "ItemId": "(P)12",
+        "Color": "99 132 96",
+        "Gender": null
+      },
+      {
+        "Id": "OilStainedShirt",
+        "ItemId": "(S)1256",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "PartyHatRed_HappyShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "PartyHat",
+        "ItemId": "(H)57",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "226 27 27",
+        "Gender": null
+      },
+      {
+        "Id": "HappyShirt",
+        "ItemId": "(S)1190",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_SailorShirt_PleatedSkirt",
+    "OutfitParts": [
+      {
+        "Id": "PleatedSkirt",
+        "ItemId": "(P)4",
+        "Color": "209 62 62",
+        "Gender": null
+      },
+      {
+        "Id": "SailorShirt",
+        "ItemId": "(S)1259",
+        "Color": "209 62 62",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "None_WhiteGi_SimpleDress",
+    "OutfitParts": [
+      {
+        "Id": "SimpleDress",
+        "ItemId": "(P)11",
+        "Color": "252 215 171",
+        "Gender": null
+      },
+      {
+        "Id": "WhiteGi",
+        "ItemId": "(S)1165",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_TrashCanShirt_Shorts",
+    "OutfitParts": [
+      {
+        "Id": "Shorts",
+        "ItemId": "(P)1",
+        "Color": "117 117 117",
+        "Gender": null
+      },
+      {
+        "Id": "TrashCanShirt",
+        "ItemId": "(S)1232",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_TurtleneckSweater_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "99 47 24",
+        "Gender": null
+      },
+      {
+        "Id": "TurtleneckSweater",
+        "ItemId": "(S)1178",
+        "Color": "56 195 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "PageboyCap_MayoralSuspenders_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "PageboyCap",
+        "ItemId": "(H)PageboyCap",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "112 38 22",
+        "Gender": null
+      },
+      {
+        "Id": "MayoralSuspenders",
+        "ItemId": "(S)1017",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt87_LongDress",
+    "OutfitParts": [
+      {
+        "Id": "Dress",
+        "ItemId": "(P)2",
+        "Color": "150 67 97",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1086",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "None_RetroRainbowShirt_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "173 43 105",
+        "Gender": null
+      },
+      {
+        "Id": "RetroRainbowShirt",
+        "ItemId": "(S)1039",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_Shirt32_Skirt",
+    "OutfitParts": [
+      {
+        "Id": "Skirt",
+        "ItemId": "(P)3",
+        "Color": "165 131 106",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1031",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_GreenOveralls_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "48 67 232",
+        "Gender": null
+      },
+      {
+        "Id": "GreenOveralls",
+        "ItemId": "(S)1007",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt75_RelaxedFitPants",
+    "OutfitParts": [
+      {
+        "Id": "RelaxedFitPants",
+        "ItemId": "(P)12",
+        "Color": "186 5 5",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1074",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_Shirt52_RelaxedFitShorts",
+    "OutfitParts": [
+      {
+        "Id": "RelaxedFitShorts",
+        "ItemId": "(P)13",
+        "Color": "221 68 87",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1051",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Female"
+  },
+  {
+    "Id": "None_Shirt1116_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "255 181 71",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1116",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_Shirt1126_BaggyPants",
+    "OutfitParts": [
+      {
+        "Id": "BaggyPants",
+        "ItemId": "(P)10",
+        "Color": "106 54 216",
+        "Gender": null
+      },
+      {
+        "Id": "Shirt",
+        "ItemId": "(S)1126",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  },
+  {
+    "Id": "None_TunnelersJersey_RelaxedFitShorts",
+    "OutfitParts": [
+      {
+        "Id": "RelaxedFitShorts",
+        "ItemId": "(P)13",
+        "Color": "81 75 65",
+        "Gender": null
+      },
+      {
+        "Id": "TunnelersJersey",
+        "ItemId": "(S)1180",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "OfficialCap_Officer'sUniform_FarmerPants",
+    "OutfitParts": [
+      {
+        "Id": "OfficialCap",
+        "ItemId": "(H)5",
+        "Color": null,
+        "Gender": null
+      },
+      {
+        "Id": "FarmerPants",
+        "ItemId": "(P)0",
+        "Color": "53 52 91",
+        "Gender": null
+      },
+      {
+        "Id": "OfficerUniform",
+        "ItemId": "(S)1240",
+        "Color": "255 0 0",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_DarkStripedShirt_BaggyPants",
+    "OutfitParts": [
+      {
+        "Id": "BaggyPants",
+        "ItemId": "(P)10",
+        "Color": "51 51 51",
+        "Gender": null
+      },
+      {
+        "Id": "DarkStripedShirt",
+        "ItemId": "(S)1194",
+        "Color": "255 255 255",
+        "Gender": null
+      }
+    ],
+    "Gender": null
+  },
+  {
+    "Id": "None_BasicPulloverM_TightPants",
+    "OutfitParts": [
+      {
+        "Id": "TightPants",
+        "ItemId": "(P)9",
+        "Color": "151 255 114",
+        "Gender": null
+      },
+      {
+        "Id": "BasicPulloverM",
+        "ItemId": "(S)SoftEdgePullover",
+        "Color": "159 255 114",
+        "Gender": null
+      }
+    ],
+    "Gender": "Male"
+  }
+]

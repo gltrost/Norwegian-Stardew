@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Stardew Norwegian",
+  "Author": "Gregorio (INSERT NAME AGAIN)",
+  "Version": "1.5.0",
+  "MinimumApiVersion": "3.13.2",
+  "Description": "Norwegian translation of Stardew Valley",
+  "UniqueID": "Gregorio.StardewNorwegian",
+  "UpdateKeys": [
+    "Nexus:3974"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    "MinimumVersion": "1.24.7" // optional
+  }
+}

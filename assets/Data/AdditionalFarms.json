@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "MeadowlandsFarm",
+    "TooltipStringPath": "Strings/1_6_Strings:Farm_Ranching_Description",
+    "MapName": "Farm_Ranching",
+    "IconTexture": "LooseSprites/farm_ranching_icon",
+    "WorldMapTexture": "LooseSprites/Farm_ranching_map",
+    "SpawnMonstersByDefault": false,
+    "ModData": null,
+    "CustomFields": null
+  }
+]

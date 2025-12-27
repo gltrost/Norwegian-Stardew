@@ -1,0 +1,1268 @@
+[
+  {
+    "Id": "spring_movie_0",
+    "Seasons": [
+      "Spring"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 0,
+    "Texture": null,
+    "SheetIndex": 0,
+    "Title": "[LocalizedText Strings\\Movies:BraveLittleSapling_Title]",
+    "Description": "[LocalizedText Strings\\Movies:BraveLittleSapling_Description]",
+    "Tags": [
+      "family",
+      "comedy"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1952",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "sweet",
+        "Sound": null,
+        "MessageDelay": 1000,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring0_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene2]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring0_1"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/playSound dustMeep/pause 200/playSound dustMeep/pause 300/playSound dustMeep/pause 100/playSound dustMeep/pause 200/playSound dustMeep",
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene3]",
+        "Shake": false,
+        "ResponsePoint": "sprout_leave",
+        "Id": "spring0_2"
+      },
+      {
+        "Image": 2,
+        "Music": "rain",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene4]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring0_3"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": "thunder",
+        "MessageDelay": 1000,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene5]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring0_4"
+      },
+      {
+        "Image": 4,
+        "Music": "echos",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene6]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring0_5"
+      },
+      {
+        "Image": 5,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/playSound coin/pause 1000/message \"[LocalizedText Strings\\Movies:BraveLittleSapling_Scene7]\"",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring0_6"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 2000,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:BraveLittleSapling_Scene8]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring0_7"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "fall_movie_0",
+    "Seasons": [
+      "Fall"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 0,
+    "Texture": null,
+    "SheetIndex": 1,
+    "Title": "[LocalizedText Strings\\Movies:Mysterium_Title]",
+    "Description": "[LocalizedText Strings\\Movies:Mysterium_Description]",
+    "Tags": [
+      "horror",
+      "art"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1953",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "Lava_Ambient",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 4000",
+        "Text": "[LocalizedText Strings\\Movies:Mysterium_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall0_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1500",
+        "Text": "[LocalizedText Strings\\Movies:Mysterium_Scene2]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall0_1"
+      },
+      {
+        "Image": -1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame fall_movie_0 2 1000/playSound batScreech",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "fall0_2"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall0_3"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Mysterium_Scene5]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall0_4"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame fall_movie_0 4 400/playSound serpentHit/pause 2000/specificTemporarySprite movieFrame fall_movie_0 4 150/playSound shadowHit/pause 300/specificTemporarySprite movieFrame fall_movie_0 4 400/playSound serpentDie",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "fall0_5"
+      },
+      {
+        "Image": -1,
+        "Music": "spring_night_ambient",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieTheater_screen fall_movie_0 6 false/pause 3000",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall0_6"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 3000",
+        "Text": "[LocalizedText Strings\\Movies:Mysterium_Scene8]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "fall0_7"
+      },
+      {
+        "Image": 8,
+        "Music": "spirits_eve",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/playSound skeletonDie/pause 6000",
+        "Text": null,
+        "Shake": true,
+        "ResponsePoint": null,
+        "Id": "fall0_8"
+      },
+      {
+        "Image": 9,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/playSound shadowpeep",
+        "Text": "[LocalizedText Strings\\Movies:Mysterium_Scene10]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall0_9"
+      },
+      {
+        "Image": 9,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/playSound shadowDie",
+        "Text": "[LocalizedText Strings\\Movies:Mysterium_Scene11]",
+        "Shake": true,
+        "ResponsePoint": "mysterium_shadow",
+        "Id": "fall0_10"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "summer_movie_0",
+    "Seasons": [
+      "Summer"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 0,
+    "Texture": null,
+    "SheetIndex": 2,
+    "Title": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Title]",
+    "Description": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Description]",
+    "Tags": [
+      "action"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1954",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "Cowboy_OVERWORLD",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 4000",
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene2]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_1"
+      },
+      {
+        "Image": 2,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene3]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_2"
+      },
+      {
+        "Image": 3,
+        "Music": "cowboy_outlawsong",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene4]",
+        "Shake": false,
+        "ResponsePoint": "PK_villain",
+        "Id": "summer0_3"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 400/playSound thunder_small",
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene5]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_4"
+      },
+      {
+        "Image": 5,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene6]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer0_5"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1000/message \"[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene7]\"/pause 500/playSound cowboy_gunload/pause 500/playSound Cowboy_monsterDie/pause 500",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_6"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 200/playSound cowboy_explosion/pause 1000/message \"[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene8]\"",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_7"
+      },
+      {
+        "Image": 8,
+        "Music": "none",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 500/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400",
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene9]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer0_8"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": "Cowboy_Secret",
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene10]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer0_9"
+      },
+      {
+        "Image": 9,
+        "Music": "Cowboy_singing",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:JourneyOfThePrairieKing_Scene11]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer0_10"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "summer_movie_1",
+    "Seasons": [
+      "Summer"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 1,
+    "Texture": null,
+    "SheetIndex": 3,
+    "Title": "[LocalizedText Strings\\Movies:Wumbus_Title]",
+    "Description": "[LocalizedText Strings\\Movies:Wumbus_Description]",
+    "Tags": [
+      "sci-fi",
+      "comedy",
+      "family"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1955",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Rarity": 3,
+        "Condition": null,
+        "Id": "WumbusStatue",
+        "ItemId": "(F)1371",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      },
+      {
+        "Rarity": 3,
+        "Condition": null,
+        "Id": "BoboStatue",
+        "ItemId": "(F)1373",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [
+      3
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "movie_wumbus",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer1_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene2]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer1_1"
+      },
+      {
+        "Image": 2,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene3]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer1_2"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene4]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer1_3"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene5]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer1_4"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene6]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer1_5"
+      },
+      {
+        "Image": 5,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 800/playSound phone/pause 300",
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene7]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "summer1_6"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:Wumbus_Scene8]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "summer1_7"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "winter_movie_1",
+    "Seasons": [
+      "Winter"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 1,
+    "Texture": null,
+    "SheetIndex": 4,
+    "Title": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Title]",
+    "Description": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Description]",
+    "Tags": [
+      "classic",
+      "romance"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1956",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "movie_classic",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter1_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 800/playSound trainWhistle/pause 300",
+        "Text": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Scene2]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "winter1_1"
+      },
+      {
+        "Image": 2,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Scene3]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "winter1_2"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 800/playSound doorCreak/pause 2000",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter1_3"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 2000",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "guyEnters",
+        "Id": "winter1_4"
+      },
+      {
+        "Image": 5,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Scene6]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter1_5"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Scene7]",
+        "Shake": false,
+        "ResponsePoint": "zuzucityexpress_mind_heart",
+        "Id": "winter1_6"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:ZuzuCityExpress_Scene8]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter1_7"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "winter_movie_0",
+    "Seasons": [
+      "Winter"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 0,
+    "Texture": null,
+    "SheetIndex": 5,
+    "Title": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Title]",
+    "Description": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Description]",
+    "Tags": [
+      "family",
+      "classic"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1957",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "winter1",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene2]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_1"
+      },
+      {
+        "Image": 2,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene3]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_2"
+      },
+      {
+        "Image": 2,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 200/playSound cow/pause 500",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_3"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene5]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_4"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 500/playSound croak/pause 500",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "winter0_5"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene7]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_6"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 300/playSound axe/pause 400/playSound axchop/pause 400/playSound axchop/pause 800/playSound treethud/pause 300",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "winter0_7"
+      },
+      {
+        "Image": 5,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene9]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "winter0_8"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1000",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_9"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene11]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_10"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1000/specificTemporarySprite coldstarMiracle/pause 500/playSound discoverMineral/pause 3000/message \"[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene12]\"/pause 500/message \"[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene12_2]\"",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_11"
+      },
+      {
+        "Image": 8,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite removeSprite 989",
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene13]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "winter0_12"
+      },
+      {
+        "Image": 8,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:MiracleAtColdstarRanch_Scene14]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "winter0_13"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "spring_movie_1",
+    "Seasons": [
+      "Spring"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 1,
+    "Texture": null,
+    "SheetIndex": 6,
+    "Title": "[LocalizedText Strings\\Movies:NaturalWonders_Title]",
+    "Description": "[LocalizedText Strings\\Movies:NaturalWonders_Description]",
+    "Tags": [
+      "documentary",
+      "family"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1958",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "movie_nature",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene1]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring1_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene2]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring1_1"
+      },
+      {
+        "Image": 2,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene3]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring1_2"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene4]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring1_3"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene5]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring1_4"
+      },
+      {
+        "Image": 5,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene6]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring1_5"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene7]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring1_6"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene8]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "spring1_7"
+      },
+      {
+        "Image": 8,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:NaturalWonders_Scene9]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "spring1_8"
+      }
+    ],
+    "CustomFields": null
+  },
+  {
+    "Id": "fall_movie_1",
+    "Seasons": [
+      "Fall"
+    ],
+    "YearModulus": 2,
+    "YearRemainder": 1,
+    "Texture": null,
+    "SheetIndex": 7,
+    "Title": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Title]",
+    "Description": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Description]",
+    "Tags": [
+      "horror"
+    ],
+    "CranePrizes": [
+      {
+        "Rarity": 1,
+        "Condition": null,
+        "Id": "MoviePoster",
+        "ItemId": "(F)1959",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": -1,
+        "MaxStack": -1,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "ClearDefaultCranePrizeGroups": [],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "Upper_Ambient",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1000/playSound cavedrip/pause 1000/playSound cavedrip/spriteText 7 \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene1]\"",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall1_0"
+      },
+      {
+        "Image": 1,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": null,
+        "Text": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene2]",
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "fall1_1"
+      },
+      {
+        "Image": 2,
+        "Music": "rain",
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/pause 2000/playSound rainsound/pause 1000",
+        "Text": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene3]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall1_2"
+      },
+      {
+        "Image": 3,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1000/message \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene4]\"/playSound leafrustle/specificTemporarySprite woodswalker/pause 1000/playSound rainsound/pause 5000",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "fall1_3"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 500/playSound leafrustle/pause 500/playSound leafrustle/pause 400/playSound leafrustle/pause 500/playSound rainsound",
+        "Text": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene5]",
+        "Shake": true,
+        "ResponsePoint": null,
+        "Id": "fall1_4"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame fall_movie_1 5 1700/playSound batScreech/spriteText 4 \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene6_2]\"/pause 20",
+        "Text": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene6]",
+        "Shake": true,
+        "ResponsePoint": "",
+        "Id": "fall1_5"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieBush/pause 2000/specificTemporarySprite shakeBush/playSound leafrustle/pause 700/specificTemporarySprite shakeBushStop/pause 900/specificTemporarySprite shakeBush/playSound leafrustle/pause 700/specificTemporarySprite shakeBushStop/pause 900/message \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene7]\"/pause 2000",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall1_6"
+      },
+      {
+        "Image": 6,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite shakeBush/playSound leafrustle/specificTemporarySprite evilRabbit/playSound dustMeep/specificTemporarySprite shakeBushStop/spriteText 4 \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene8]\"/pause 500/spriteText 4 \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene8_2]\"/pause 500/playSound rainsound/specificTemporarySprite movieFrame fall_movie_1 7 500/specificTemporarySprite removeSprite 777/specificTemporarySprite removeSprite 778",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall1_7"
+      },
+      {
+        "Image": 7,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 7 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 8 80/pause 50/specificTemporarySprite movieFrame fall_movie_1 9 80/pause 50",
+        "Text": "[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene9]",
+        "Shake": false,
+        "ResponsePoint": null,
+        "Id": "fall1_8"
+      },
+      {
+        "Image": 4,
+        "Music": null,
+        "Sound": null,
+        "MessageDelay": 500,
+        "Script": "/pause 1000/playSound rainsound/pause 1000/spriteText 4 \"[LocalizedText Strings\\Movies:ItHowlsInTheRain_Scene10]\"",
+        "Text": null,
+        "Shake": false,
+        "ResponsePoint": "",
+        "Id": "fall1_9"
+      }
+    ],
+    "CustomFields": null
+  }
+]

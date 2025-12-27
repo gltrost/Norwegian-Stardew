@@ -1,0 +1,66 @@
+{
+  "Default": {
+    "UnlockCondition": "PLAYER_HAS_MAIL Host ccBoilerRoom Received",
+    "LockedMessage": null,
+    "ChooseDestinationMessage": null,
+    "BuyTicketMessage": null,
+    "Destinations": [
+      {
+        "Id": "Mines",
+        "DisplayName": "[LocalizedText Strings\\Locations:MineCart_Destination_Mines]",
+        "Condition": "PLAYER_HAS_MAIL Any landslideDone",
+        "Price": 0,
+        "BuyTicketMessage": null,
+        "TargetLocation": "Mine",
+        "TargetTile": {
+          "X": 13,
+          "Y": 9
+        },
+        "TargetDirection": "right",
+        "CustomFields": null
+      },
+      {
+        "Id": "Town",
+        "DisplayName": "[LocalizedText Strings\\Locations:MineCart_Destination_Town]",
+        "Condition": null,
+        "Price": 0,
+        "BuyTicketMessage": null,
+        "TargetLocation": "Town",
+        "TargetTile": {
+          "X": 105,
+          "Y": 80
+        },
+        "TargetDirection": "right",
+        "CustomFields": null
+      },
+      {
+        "Id": "Bus",
+        "DisplayName": "[LocalizedText Strings\\Locations:MineCart_Destination_BusStop]",
+        "Condition": null,
+        "Price": 0,
+        "BuyTicketMessage": null,
+        "TargetLocation": "BusStop",
+        "TargetTile": {
+          "X": 14,
+          "Y": 4
+        },
+        "TargetDirection": null,
+        "CustomFields": null
+      },
+      {
+        "Id": "Quarry",
+        "DisplayName": "[LocalizedText Strings\\Locations:MineCart_Destination_Quarry]",
+        "Condition": "PLAYER_HAS_MAIL Host ccCraftsRoom Received",
+        "Price": 0,
+        "BuyTicketMessage": null,
+        "TargetLocation": "Mountain",
+        "TargetTile": {
+          "X": 124,
+          "Y": 12
+        },
+        "TargetDirection": null,
+        "CustomFields": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2710 @@
+[
+  {
+    "NPCName": "Penny",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [
+          "Pam"
+        ],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_*_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Penny_*_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_*_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_spring_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "sprout_leave",
+            "Script": "/shake Penny 3000/pause 500/message \"[LocalizedText Strings\\MovieReactions:Penny_spring_movie_0_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_spring_movie_0_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_spring_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_family_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Penny_family_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_family_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "comedy",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_comedy_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_comedy_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_comedy_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_horror_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Penny 3000/pause 500/emote Penny 28",
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_horror_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_horror_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_7"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_dislike_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_8"
+      },
+      {
+        "Tag": "seen_love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_seen_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": null
+        },
+        "Id": "reaction_9"
+      },
+      {
+        "Tag": "seen_like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_seen_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": null
+        },
+        "Id": "reaction_10"
+      },
+      {
+        "Tag": "seen_dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Penny_seen_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": null
+        },
+        "Id": "reaction_11"
+      }
+    ]
+  },
+  {
+    "NPCName": "Pam",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Pam_*_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Pam_*_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "Krobus",
+    "Reactions": [
+      {
+        "Tag": "fall_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Krobus_fall_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "mysterium_shadow",
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Krobus_fall_movie_0_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Krobus_fall_movie_0_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Krobus_fall_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Krobus_*_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Krobus_*_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      }
+    ]
+  },
+  {
+    "NPCName": "Wizard",
+    "Reactions": [
+      {
+        "Tag": "fall_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Wizard_fall_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Wizard_fall_movie_0_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Wizard_fall_movie_0_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Wizard_fall_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Wizard_*_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Wizard_*_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "George",
+    "Reactions": [
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:George_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:George_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:George_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:George_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:George_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:George_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Alex",
+    "Reactions": [
+      {
+        "Tag": "fall_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "documentary",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_summer_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_summer_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Alex_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Evelyn",
+    "Reactions": [
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Evelyn 3000/pause 500/message \"[LocalizedText Strings\\MovieReactions:Evelyn_dislike_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_dislike_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Evelyn_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      }
+    ]
+  },
+  {
+    "NPCName": "Pierre",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Pierre_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Pierre_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Pierre_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Pierre_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Abigail",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_summer_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_summer_movie_0_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_summer_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_spring_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Abigail 3000/pause 500/message \"[LocalizedText Strings\\MovieReactions:Abigail_love_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_love_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_dislike_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Abigail_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Caroline",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_summer_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_summer_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_love_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Caroline_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Harvey",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Harvey 3000/pause 500/message \"[LocalizedText Strings\\MovieReactions:Harvey_spring_movie_1_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_spring_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "action",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_love_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Harvey 3000/pause 500/message \"[LocalizedText Strings\\MovieReactions:Harvey_dislike_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_dislike_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Harvey_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Gus",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_summer_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_summer_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_winter_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_winter_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "fall_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_fall_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_fall_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Gus_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Lewis",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_summer_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "PK_villain",
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Lewis_summer_movie_0_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_summer_movie_0_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_summer_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Lewis_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Jodi",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jodi_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jodi_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jodi_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jodi_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Sam",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_summer_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/playSound reward/emote Sam 32/message Sam \"[LocalizedText Strings\\MovieReactions:Sam_summer_movie_1_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_summer_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_summer_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_horror_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_horror_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message Sam \"[LocalizedText Strings\\MovieReactions:Sam_dislike_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_dislike_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sam_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      }
+    ]
+  },
+  {
+    "NPCName": "Vincent",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "documentary",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Vincent_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/jump Vincent/pause 400/playSound reward/message \"[LocalizedText Strings\\MovieReactions:Vincent_love_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Vincent_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Vincent_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"[LocalizedText Strings\\MovieReactions:Vincent_dislike_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Vincent_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Kent",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Kent_like_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Kent 32/message \"[LocalizedText Strings\\MovieReactions:Kent_like_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Kent_like_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Kent_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Kent_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Kent 28/message \"[LocalizedText Strings\\MovieReactions:Kent_dislike_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Kent_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Clint",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Clint_winter_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "guyEnters",
+            "Script": "/emote Clint 12/message \"[LocalizedText Strings\\MovieReactions:Clint_winter_movie_1_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Clint_winter_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Clint_winter_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Clint_like_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Clint_like_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Clint_like_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Clint_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "Emily",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Emily_dislike_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_dislike_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Emily_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Haley",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_winter_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_winter_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_winter_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_winter_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Haley_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Maru",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Maru 32/playSound reward/message \"[LocalizedText Strings\\MovieReactions:Maru_spring_movie_1_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_spring_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_summer_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_summer_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Maru_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      }
+    ]
+  },
+  {
+    "NPCName": "Sebastian",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Sebastian 32/message \"[LocalizedText Strings\\MovieReactions:Sebastian_love_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_love_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sebastian_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Robin",
+    "Reactions": [
+      {
+        "Tag": "action",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Robin_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Robin_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Robin_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Robin_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Demetrius",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_winter_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "zuzucityexpress_mind_heart",
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Demetrius_winter_movie_1_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_winter_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_winter_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_summer_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_summer_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Demetrius 8/message Demetrius \"[LocalizedText Strings\\MovieReactions:Demetrius_spring_movie_1_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_spring_movie_1_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_winter_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_winter_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Demetrius_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      }
+    ]
+  },
+  {
+    "NPCName": "Linus",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Linus_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Linus 28/message \"[LocalizedText Strings\\MovieReactions:Linus_spring_movie_1_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Linus_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Linus_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Linus 28/message \"[LocalizedText Strings\\MovieReactions:Linus_dislike_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Linus_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Dwarf",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Dwarf_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Dwarf_love_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Dwarf_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      }
+    ]
+  },
+  {
+    "NPCName": "Marnie",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Marnie_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Marnie_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Marnie_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Marnie_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Shane",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_summer_movie_0_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "PK_villain",
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_summer_movie_0_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_summer_movie_0_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "fall_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Shane_love_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_love_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_dislike_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Shane 28/message \"[LocalizedText Strings\\MovieReactions:Shane_dislike_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Shane_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_7"
+      }
+    ]
+  },
+  {
+    "NPCName": "Jas",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/jump Jas/pause 400/playSound reward/message \"[LocalizedText Strings\\MovieReactions:Jas_love_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_like_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"[LocalizedText Strings\\MovieReactions:Jas_like_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "horror",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_horror_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Jas 250/pause 500/shake Jas 250/pause 500/emote Jas 28/message \"[LocalizedText Strings\\MovieReactions:Jas_horror_DuringMovie_2]\"",
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_horror_DuringMovie]"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Jas_horror_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Leah",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_spring_movie_1_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_spring_movie_1_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "art",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_6"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leah_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_7"
+      }
+    ]
+  },
+  {
+    "NPCName": "Sandy",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sandy_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Sandy_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_1"
+      }
+    ]
+  },
+  {
+    "NPCName": "Elliott",
+    "Reactions": [
+      {
+        "Tag": "art",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_0"
+      },
+      {
+        "Tag": "fall_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Elliott_love_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Elliott_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Elliott_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Elliott_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Elliott_dislike_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Elliott_dislike_AfterMovie]"
+          }
+        },
+        "Id": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Willy",
+    "Reactions": [
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Willy_like_BeforeMovie]"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Willy_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "Leo",
+    "Reactions": [
+      {
+        "Tag": "documentary",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "Id": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leo_love_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/jump Leo/pause 400/playSound reward/message \"[LocalizedText Strings\\MovieReactions:Leo_love_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leo_love_AfterMovie]"
+          }
+        },
+        "Id": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leo_like_BeforeMovie]"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/pause 500/emote Leo 32/message \"[LocalizedText Strings\\MovieReactions:Leo_like_DuringMovie]\"",
+            "Text": null
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": null,
+            "Text": "[LocalizedText Strings\\MovieReactions:Leo_like_AfterMovie]"
+          }
+        },
+        "Id": "reaction_4"
+      }
+    ]
+  }
+]

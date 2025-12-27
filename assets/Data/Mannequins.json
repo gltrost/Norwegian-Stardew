@@ -1,0 +1,42 @@
+{
+  "MannequinMale": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:MannequinMale_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Mannequin_Description]",
+    "Texture": "TileSheets\\Mannequins",
+    "FarmerTexture": "Characters/Farmer/farmer_base_mannequin",
+    "SheetIndex": 0,
+    "DisplaysClothingAsMale": true,
+    "Cursed": false,
+    "CustomFields": null
+  },
+  "MannequinFemale": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:MannequinFemale_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:Mannequin_Description]",
+    "Texture": "TileSheets\\Mannequins",
+    "FarmerTexture": "Characters/Farmer/farmer_girl_mannequin",
+    "SheetIndex": 4,
+    "DisplaysClothingAsMale": false,
+    "Cursed": false,
+    "CustomFields": null
+  },
+  "CursedMannequinMale": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:CursedMannequinMale_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:CursedMannequin_Description]",
+    "Texture": "TileSheets\\Mannequins",
+    "FarmerTexture": "Characters/Farmer/farmer_base_mannequin_cursed",
+    "SheetIndex": 8,
+    "DisplaysClothingAsMale": true,
+    "Cursed": true,
+    "CustomFields": null
+  },
+  "CursedMannequinFemale": {
+    "DisplayName": "[LocalizedText Strings\\1_6_Strings:CursedMannequinDemale_Name]",
+    "Description": "[LocalizedText Strings\\1_6_Strings:CursedMannequin_Description]",
+    "Texture": "TileSheets\\Mannequins",
+    "FarmerTexture": "Characters/Farmer/farmer_girl_mannequin_cursed",
+    "SheetIndex": 12,
+    "DisplaysClothingAsMale": false,
+    "Cursed": true,
+    "CustomFields": null
+  }
+}

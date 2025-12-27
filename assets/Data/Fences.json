@@ -1,0 +1,83 @@
+{
+  "322": {
+    "Health": 28,
+    "RepairHealthAdjustmentMinimum": -5.0,
+    "RepairHealthAdjustmentMaximum": 5.0,
+    "Texture": "LooseSprites\\Fence1",
+    "PlacementSound": "axe",
+    "RemovalSound": "axchop",
+    "RemovalToolIds": [],
+    "RemovalToolTypes": [
+      "StardewValley.Tools.Axe"
+    ],
+    "RemovalDebrisType": 12,
+    "HeldObjectDrawOffset": "0, -20",
+    "LeftEndHeldObjectDrawX": -1.0,
+    "RightEndHeldObjectDrawX": 0.0
+  },
+  "323": {
+    "Health": 60,
+    "RepairHealthAdjustmentMinimum": -5.0,
+    "RepairHealthAdjustmentMaximum": 6.0,
+    "Texture": "LooseSprites\\Fence2",
+    "PlacementSound": "stoneStep",
+    "RemovalSound": "hammer",
+    "RemovalToolIds": [],
+    "RemovalToolTypes": [
+      "StardewValley.Tools.Pickaxe"
+    ],
+    "RemovalDebrisType": 14,
+    "HeldObjectDrawOffset": "0, -16",
+    "LeftEndHeldObjectDrawX": 0.0,
+    "RightEndHeldObjectDrawX": -1.0
+  },
+  "324": {
+    "Health": 125,
+    "RepairHealthAdjustmentMinimum": -5.0,
+    "RepairHealthAdjustmentMaximum": 7.0,
+    "Texture": "LooseSprites\\Fence3",
+    "PlacementSound": "hammer",
+    "RemovalSound": "hammer",
+    "RemovalToolIds": [],
+    "RemovalToolTypes": [
+      "StardewValley.Tools.Pickaxe"
+    ],
+    "RemovalDebrisType": 14,
+    "HeldObjectDrawOffset": "-0.5, -22",
+    "LeftEndHeldObjectDrawX": -2.5,
+    "RightEndHeldObjectDrawX": 1.5
+  },
+  "325": {
+    "Health": 100,
+    "RepairHealthAdjustmentMinimum": 0.0,
+    "RepairHealthAdjustmentMaximum": 0.0,
+    "Texture": "LooseSprites\\Fence1",
+    "PlacementSound": "axe",
+    "RemovalSound": "axchop",
+    "RemovalToolIds": [],
+    "RemovalToolTypes": [
+      "StardewValley.Tools.Axe",
+      "StardewValley.Tools.Pickaxe"
+    ],
+    "RemovalDebrisType": 12,
+    "HeldObjectDrawOffset": "0, -20",
+    "LeftEndHeldObjectDrawX": -1.0,
+    "RightEndHeldObjectDrawX": 0.0
+  },
+  "298": {
+    "Health": 280,
+    "RepairHealthAdjustmentMinimum": -20.0,
+    "RepairHealthAdjustmentMaximum": 20.0,
+    "Texture": "LooseSprites\\Fence5",
+    "PlacementSound": "axe",
+    "RemovalSound": "axchop",
+    "RemovalToolIds": [],
+    "RemovalToolTypes": [
+      "StardewValley.Tools.Axe"
+    ],
+    "RemovalDebrisType": 12,
+    "HeldObjectDrawOffset": "0, -20",
+    "LeftEndHeldObjectDrawX": -1.0,
+    "RightEndHeldObjectDrawX": 0.0
+  }
+}

@@ -1,0 +1,367 @@
+[
+  {
+    "Id": "Mail_MarniePetAdoption",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_HAS_MAIL Current rejectedPet Received, YEAR 2",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current MarniePetRejectedAdoption",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Abigail_8heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Abigail 2010",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current abbySpiritBoard",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Penny_10heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Penny 2505",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current pennySpa",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_8heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Elliott 2002",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current elliottReading",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_10heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Elliott 2502",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current elliottBoat",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Emily_8heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_HEARTS Current Emily 8, PLAYER_HAS_SEEN_EVENT Current 917409",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current EmilyClothingTherapy",
+      "MarkEventSeen Current 2111194"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Emily_10heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Emily 2502, PLAYER_NPC_RELATIONSHIP Current Emily Dating Engaged Married, PLAYER_HAS_SEEN_EVENT Current 2123243, WEATHER Woods Sun",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current EmilyCamping",
+      "MarkEventSeen Current 2111294"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Pierre_ExtendedHours",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_HAS_SEEN_EVENT Current 191393",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current pierreHours",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Harvey_10heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Harvey 2502",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current harveyBalloon",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Sam_10heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Sam 2502",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current samMessage",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Alex_10heart",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_FRIENDSHIP_POINTS Current Alex 2502",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current joshMessage",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Mom_5K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 5000, PLAYER_GENDER Current Male",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current dad1",
+    "HostOnly": false,
+    "Action": "AddMail Current mom1",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Mom_15K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 15000, PLAYER_GENDER Current Male",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current dad2",
+    "HostOnly": false,
+    "Action": "AddMail Current mom2",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Mom_32K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 32000, PLAYER_GENDER Current Male",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current dad3",
+    "HostOnly": false,
+    "Action": "AddMail Current mom3",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Mom_120K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 120000, PLAYER_GENDER Current Male",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current dad4",
+    "HostOnly": false,
+    "Action": "AddMail Current mom4",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Dad_5K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 5000, PLAYER_GENDER Current Female",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current mom1",
+    "HostOnly": false,
+    "Action": "AddMail Current dad1",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Dad_15K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 15000, PLAYER_GENDER Current Female",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current mom2",
+    "HostOnly": false,
+    "Action": "AddMail Current dad2",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Dad_32K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 32000, PLAYER_GENDER Current Female",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current mom3",
+    "HostOnly": false,
+    "Action": "AddMail Current dad3",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Dad_120K",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 120000, PLAYER_GENDER Current Female",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current mom4",
+    "HostOnly": false,
+    "Action": "AddMail Current dad4",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Tribune_UpAndComing",
+    "Trigger": "DayEnding",
+    "Condition": "PLAYER_MONEY_EARNED Current 27000",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current newsstory",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Pierre_Fertilizers",
+    "Trigger": "DayEnding",
+    "Condition": "DAY_OF_MONTH 15",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current fertilizers",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Pierre_FertilizersHighQuality",
+    "Trigger": "DayEnding",
+    "Condition": "YEAR 2",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current fertilizers2",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Robin_Woodchipper",
+    "Trigger": "DayEnding",
+    "Condition": "SEASON Winter",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current WoodChipper",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Willy_BackRoomUnlocked",
+    "Trigger": "DayEnding",
+    "Condition": "ANY IS_COMMUNITY_CENTER_COMPLETE IS_JOJA_MART_COMPLETE",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": "AddMail Current willyBackRoomInvitation",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Willy_ResendSpring21",
+    "Trigger": "DayStarted",
+    "Condition": "!PLAYER_HAS_MAIL Current spring_2_1, DATE_RANGE Spring 3 1",
+    "SkipPermanentlyCondition": "PLAYER_HAS_MAIL Current spring_2_1",
+    "HostOnly": false,
+    "Action": "AddMail Current spring_2_1",
+    "Actions": null,
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_Tour1",
+    "Trigger": "DayStarted",
+    "Condition": "PLAYER_HAS_SEEN_EVENT Current 3912125, !PLAYER_HAS_CONVERSATION_TOPIC Current ElliottGone1",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current elliottLetter1 Now",
+      "MarkEventSeen Current 3912126"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_Tour2",
+    "Trigger": "DayStarted",
+    "Condition": "PLAYER_HAS_MAIL Current elliottLetter1 Received, !PLAYER_HAS_CONVERSATION_TOPIC Current ElliottGone2",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current elliottLetter2 Now",
+      "MarkEventSeen Current 3912127"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_Tour3",
+    "Trigger": "DayStarted",
+    "Condition": "PLAYER_HAS_MAIL Current elliottLetter2 Received, !PLAYER_HAS_CONVERSATION_TOPIC Current ElliottGone3",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current elliottLetter3 Now",
+      "MarkEventSeen Current 3912128"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_Tour4",
+    "Trigger": "DayStarted",
+    "Condition": "PLAYER_HAS_MAIL Current elliottLetter3 Received, !PLAYER_HAS_CONVERSATION_TOPIC Current ElliottGone4",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current elliottLetter4 Now",
+      "MarkEventSeen Current 3912129"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_Tour5",
+    "Trigger": "DayStarted",
+    "Condition": "PLAYER_HAS_MAIL Current elliottLetter4 Received, !PLAYER_HAS_CONVERSATION_TOPIC Current ElliottGone5",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current elliottLetter5 Now",
+      "MarkEventSeen Current 3912130"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  },
+  {
+    "Id": "Mail_Elliott_Tour6",
+    "Trigger": "DayStarted",
+    "Condition": "PLAYER_HAS_MAIL Current elliottLetter5 Received, !PLAYER_HAS_CONVERSATION_TOPIC Current ElliottGone6",
+    "SkipPermanentlyCondition": null,
+    "HostOnly": false,
+    "Action": null,
+    "Actions": [
+      "AddMail Current elliottLetter6 Now",
+      "MarkEventSeen Current 3912131"
+    ],
+    "CustomFields": null,
+    "MarkActionApplied": true
+  }
+]

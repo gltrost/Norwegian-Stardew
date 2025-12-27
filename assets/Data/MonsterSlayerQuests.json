@@ -1,0 +1,211 @@
+{
+  "Slimes": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_Slimes]",
+    "Targets": [
+      "Green Slime",
+      "Frost Jelly",
+      "Sludge",
+      "Tiger Slime"
+    ],
+    "Count": 1000,
+    "RewardItemId": "(O)520",
+    "RewardItemPrice": 25000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Shadows": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_VoidSpirits]",
+    "Targets": [
+      "Shadow Guy",
+      "Shadow Shaman",
+      "Shadow Brute",
+      "Shadow Sniper"
+    ],
+    "Count": 150,
+    "RewardItemId": "(O)523",
+    "RewardItemPrice": 25000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Bats": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_Bats]",
+    "Targets": [
+      "Bat",
+      "Frost Bat",
+      "Lava Bat",
+      "Iridium Bat"
+    ],
+    "Count": 200,
+    "RewardItemId": "(O)522",
+    "RewardItemPrice": 15000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Skeletons": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_Skeletons]",
+    "Targets": [
+      "Skeleton",
+      "Skeleton Mage"
+    ],
+    "Count": 50,
+    "RewardItemId": "(H)8",
+    "RewardItemPrice": 20000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Insects": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_CaveInsects]",
+    "Targets": [
+      "Grub",
+      "Fly",
+      "Bug"
+    ],
+    "Count": 80,
+    "RewardItemId": "(W)13",
+    "RewardItemPrice": 10000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Duggy": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_Duggies]",
+    "Targets": [
+      "Duggy",
+      "Magma Duggy"
+    ],
+    "Count": 30,
+    "RewardItemId": "(H)27",
+    "RewardItemPrice": 20000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "DustSpirits": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_DustSprites]",
+    "Targets": [
+      "Dust Spirit"
+    ],
+    "Count": 500,
+    "RewardItemId": "(O)526",
+    "RewardItemPrice": 20000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Crabs": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_RockCrabs]",
+    "Targets": [
+      "Rock Crab",
+      "Lava Crab",
+      "Iridium Crab"
+    ],
+    "Count": 60,
+    "RewardItemId": "(O)810",
+    "RewardItemPrice": 15000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Mummies": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_Mummies]",
+    "Targets": [
+      "Mummy"
+    ],
+    "Count": 100,
+    "RewardItemId": "(H)60",
+    "RewardItemPrice": 20000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Dinos": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_PepperRex]",
+    "Targets": [
+      "Pepper Rex"
+    ],
+    "Count": 50,
+    "RewardItemId": "(H)50",
+    "RewardItemPrice": 20000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "Serpents": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_Serpent]",
+    "Targets": [
+      "Serpent",
+      "Royal Serpent"
+    ],
+    "Count": 250,
+    "RewardItemId": "(O)811",
+    "RewardItemPrice": 30000,
+    "RewardDialogue": null,
+    "RewardDialogueFlag": null,
+    "RewardFlag": null,
+    "RewardFlagAll": null,
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  },
+  "FlameSpirits": {
+    "DisplayName": "[LocalizedText Strings\\\\Locations:AdventureGuild_KillList_MagmaSprite]",
+    "Targets": [
+      "Magma Sprite",
+      "Magma Sparker"
+    ],
+    "Count": 150,
+    "RewardItemId": null,
+    "RewardItemPrice": -1,
+    "RewardDialogue": "[LocalizedText Strings\\Locations:Gil_Telephone]",
+    "RewardDialogueFlag": "Gil_Telephone",
+    "RewardFlag": null,
+    "RewardFlagAll": "Gil_Telephone",
+    "RewardMail": null,
+    "RewardMailAll": null,
+    "CustomFields": null
+  }
+}

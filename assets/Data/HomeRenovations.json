@@ -1,0 +1,686 @@
+{
+  "remove_crib": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_RemoveCrib",
+    "AnimationType": "destroy",
+    "CheckForObstructions": false,
+    "Price": 0,
+    "RoomId": null,
+    "Requirements": [
+      {
+        "Type": "Value",
+        "Key": "cribStyle",
+        "Value": "!0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Value",
+        "Key": "cribStyle",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": null,
+    "SpecialRect": "crib",
+    "CustomFields": null
+  },
+  "build_crib": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_BuildCrib",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 0,
+    "RoomId": null,
+    "Requirements": [
+      {
+        "Type": "Value",
+        "Key": "cribStyle",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Value",
+        "Key": "cribStyle",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": null,
+    "SpecialRect": "crib",
+    "CustomFields": null
+  },
+  "open_bedroom": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_OpenBedroom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": 10000,
+    "RoomId": "BedroomWall",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_bedroom_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_bedroom_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 36,
+            "Y": 20,
+            "Width": 2,
+            "Height": 8
+          },
+          {
+            "X": 36,
+            "Y": 29,
+            "Width": 2,
+            "Height": 1
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "close_bedroom": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_CloseBedroom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -10000,
+    "RoomId": "BedroomWall",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_bedroom_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_bedroom_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 36,
+            "Y": 20,
+            "Width": 2,
+            "Height": 8
+          },
+          {
+            "X": 36,
+            "Y": 29,
+            "Width": 2,
+            "Height": 1
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_southern_room": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_AddSouthernRoom",
+    "AnimationType": "build",
+    "CheckForObstructions": false,
+    "Price": 30000,
+    "RoomId": "Southern",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_southern_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_southern_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 37,
+            "Y": 33,
+            "Width": 13,
+            "Height": 11
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_southern_room": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_RemoveSouthernRoom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -30000,
+    "RoomId": "Southern",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_southern_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_southern_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 37,
+            "Y": 33,
+            "Width": 13,
+            "Height": 11
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_corner_room": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_AddCornerRoom",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 20000,
+    "RoomId": "Corner",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_corner_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_corner_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 43,
+            "Y": 10,
+            "Width": 12,
+            "Height": 9
+          },
+          {
+            "X": 46,
+            "Y": 19,
+            "Width": 3,
+            "Height": 4
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_corner_room": {
+    "TextStrings": "Strings\\Locations:ScienceHouse_Renovation_RemoveCornerRoom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -20000,
+    "RoomId": "Corner",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_corner_open",
+        "Value": "1"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_extendedcorner_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_corner_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 43,
+            "Y": 10,
+            "Width": 12,
+            "Height": 9
+          },
+          {
+            "X": 47,
+            "Y": 19,
+            "Width": 2,
+            "Height": 4
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_dining_room": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_AddDiningRoom",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 150000,
+    "RoomId": "Dining",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_dining_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_dining_open",
+        "Value": "1"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 0,
+            "Y": 19,
+            "Width": 17,
+            "Height": 15
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_dining_room": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_RemoveDiningRoom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -150000,
+    "RoomId": "Dining",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_dining_open",
+        "Value": "1"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_dining_open",
+        "Value": "0"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 0,
+            "Y": 19,
+            "Width": 17,
+            "Height": 15
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_cubby": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_AddCubby",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 10000,
+    "RoomId": "Cubby",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_cubby_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_cubby_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 29,
+            "Y": 29,
+            "Width": 7,
+            "Height": 6
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_cubby": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_RemoveCubby",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -10000,
+    "RoomId": "Cubby",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_cubby_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_cubby_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 29,
+            "Y": 29,
+            "Width": 7,
+            "Height": 6
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_farupperroom": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_AddAttic",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 60000,
+    "RoomId": "Attic",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_farupperroom_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_farupperroom_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 19,
+            "Y": 0,
+            "Width": 15,
+            "Height": 10
+          },
+          {
+            "X": 25,
+            "Y": 10,
+            "Width": 4,
+            "Height": 4
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_farupperroom": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_RemoveAttic",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -60000,
+    "RoomId": "Attic",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_farupperroom_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_farupperroom_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 19,
+            "Y": 0,
+            "Width": 15,
+            "Height": 10
+          },
+          {
+            "X": 25,
+            "Y": 10,
+            "Width": 4,
+            "Height": 4
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_extendedcorner": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_AddExtendedCornerRoom",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 100000,
+    "RoomId": "ExtendedCorner",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_extendedcorner_open",
+        "Value": "0"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_corner_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_extendedcorner_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 54,
+            "Y": 2,
+            "Width": 14,
+            "Height": 18
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_extendedcorner": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_RemoveExtendedCornerRoom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -100000,
+    "RoomId": "ExtendedCorner",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_extendedcorner_open",
+        "Value": "1"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_corner_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_extendedcorner_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 54,
+            "Y": 2,
+            "Width": 14,
+            "Height": 18
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "add_diningroomwall": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_OpenDiningRoom",
+    "AnimationType": "build",
+    "CheckForObstructions": true,
+    "Price": 10000,
+    "RoomId": "DiningRoomWall",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_dining_open",
+        "Value": "1"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "1"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "0"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 13,
+            "Y": 19,
+            "Width": 4,
+            "Height": 15
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  },
+  "remove_diningroomwall": {
+    "TextStrings": "Strings\\1_6_Strings:Renovation_CloseDiningRoom",
+    "AnimationType": "destroy",
+    "CheckForObstructions": true,
+    "Price": -10000,
+    "RoomId": "DiningRoomWall",
+    "Requirements": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_dining_open",
+        "Value": "1"
+      },
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "0"
+      }
+    ],
+    "RenovateActions": [
+      {
+        "Type": "Mail",
+        "Key": "renovation_diningroomwall_open",
+        "Value": "1"
+      }
+    ],
+    "RectGroups": [
+      {
+        "Rects": [
+          {
+            "X": 13,
+            "Y": 19,
+            "Width": 4,
+            "Height": 15
+          }
+        ]
+      }
+    ],
+    "SpecialRect": null,
+    "CustomFields": null
+  }
+}

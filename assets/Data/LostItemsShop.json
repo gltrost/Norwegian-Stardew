@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "StardewHeroTrophy",
+    "ItemId": "(BC)116",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "191393"
+  },
+  {
+    "Id": "SodaMachine",
+    "ItemId": "(BC)117",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "502261"
+  },
+  {
+    "Id": "EmilysMagicBoots",
+    "ItemId": "(B)804",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "3917601"
+  },
+  {
+    "Id": "EmilysMagicHat",
+    "ItemId": "(H)41",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "3917601"
+  },
+  {
+    "Id": "EmilysMagicShirt",
+    "ItemId": "(S)1127",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "3917601"
+  },
+  {
+    "Id": "LeahsSculpture",
+    "ItemId": "(F)1306",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "992253"
+  },
+  {
+    "Id": "MyFirstPainting",
+    "ItemId": "(F)1802",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "3091462"
+  },
+  {
+    "Id": "StarryDoubleBed",
+    "ItemId": "(F)2058",
+    "RequireMailReceived": "pennyQuilt0",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "FruitSaladRug",
+    "ItemId": "(F)1909",
+    "RequireMailReceived": "pennyQuilt1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "StrawberryDoubleBed",
+    "ItemId": "(F)2064",
+    "RequireMailReceived": "pennyQuilt1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "PirateRug",
+    "ItemId": "(F)1902",
+    "RequireMailReceived": "pennyQuilt2",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "PirateDoubleBed",
+    "ItemId": "(F)2070",
+    "RequireMailReceived": "pennyQuilt2",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SamsBoombox",
+    "ItemId": "(F)1309",
+    "RequireMailReceived": null,
+    "RequireEventSeen": "3918603"
+  },
+  {
+    "Id": "Boat",
+    "ItemId": "(F)2421",
+    "RequireMailReceived": "gotBoatPainting",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "Physics101",
+    "ItemId": "(F)2732",
+    "RequireMailReceived": "CalderaPainting",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "IridiumKrobus",
+    "ItemId": "(F)2396",
+    "RequireMailReceived": "caughtIridiumKrobus",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "CoffeeMaker",
+    "ItemId": "(BC)246",
+    "RequireMailReceived": "georgeGifts",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "JunimoKartArcadeSystem",
+    "ItemId": "(BC)159",
+    "RequireMailReceived": "JunimoKart",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "PrairieKingArcadeSystem",
+    "ItemId": "(BC)141",
+    "RequireMailReceived": "Beat_PK",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SewingMachine",
+    "ItemId": "(BC)247",
+    "RequireMailReceived": "emilyStones",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "ANightOnEcoHill",
+    "ItemId": "(F)1541",
+    "RequireMailReceived": "museum20",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "JadeHills",
+    "ItemId": "(F)1554",
+    "RequireMailReceived": "museum25",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "BearStatue",
+    "ItemId": "(F)1671",
+    "RequireMailReceived": "museum50",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "ChickenStatue",
+    "ItemId": "(F)1305",
+    "RequireMailReceived": "museumCollectedRewardF_1305_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "ObsidianVase",
+    "ItemId": "(F)1299",
+    "RequireMailReceived": "museumCollectedRewardF_1299_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SingingStone",
+    "ItemId": "(BC)94",
+    "RequireMailReceived": "museumCollectedRewardBC_94_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SkeletonStatue",
+    "ItemId": "(F)1304",
+    "RequireMailReceived": "museumCollectedRewardF_1304_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SlothSkeletonL",
+    "ItemId": "(F)1301",
+    "RequireMailReceived": "museumCollectedRewardF_1301_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SlothSkeletonM",
+    "ItemId": "(F)1302",
+    "RequireMailReceived": "museumCollectedRewardF_1302_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SlothSkeletonR",
+    "ItemId": "(F)1303",
+    "RequireMailReceived": "museumCollectedRewardF_1303_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "StandingGeode",
+    "ItemId": "(F)1298",
+    "RequireMailReceived": "museumCollectedRewardF_1298_1",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "GilsHat",
+    "ItemId": "(H)GilsHat",
+    "RequireMailReceived": "DF_Gil_Hat",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "GoldenHelmet",
+    "ItemId": "(H)75",
+    "RequireMailReceived": "goldenCoconutHat",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "JunimoPlush",
+    "ItemId": "(F)1733",
+    "RequireMailReceived": "junimoPlush",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "SolidGoldLewis",
+    "ItemId": "(BC)164",
+    "RequireMailReceived": "SecretNote19_done",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "StatueOfTruePerfection",
+    "ItemId": "(BC)280",
+    "RequireMailReceived": "GotPerfectionStatue",
+    "RequireEventSeen": null
+  },
+  {
+    "Id": "CAMask",
+    "ItemId": "(H)92",
+    "RequireMailReceived": "gotCAMask",
+    "RequireEventSeen": null
+  }
+]

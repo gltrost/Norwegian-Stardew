@@ -1,0 +1,4208 @@
+[
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ostrich_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)93",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)93"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fireworks_(red)"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)57",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "RedPartyHat_FromFireworks"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fireworks_(purple)"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)58",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "BluePartyHat_FromFireworks"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fireworks_(green)"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)59",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "GreenPartyHat_FromFireworks"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ginger"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)90",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)90"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bug_steak"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)89",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)89"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cinder_shard"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)88",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)88"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mushroom_tree_seed"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)87",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)87"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_qi_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)86",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)86"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dragon_tooth"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)85",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)85"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_radioactive_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)84",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)84"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_magma_cap"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1291",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1291"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_golden_coconut"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1297",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1297"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ginger_ale"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1292",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1292"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_banana_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1293",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1293"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mango_sticky_rice"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1294",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1294"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_poi"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1295",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1295"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tropical_curry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1296",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1296"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dinosaur_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)5",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)5"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_seafoam_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1290",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1290"
+  },
+  {
+    "FirstItemTags": [
+      "item_lucky_purple_shorts"
+    ],
+    "SecondItemTags": [
+      "item_gold_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(O)71",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(O)71"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_artifact_trove"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1288",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1288"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wilted_bouquet"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1289",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1289"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_magic_rock_candy"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1997",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1997"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_red_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)52",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)52"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_shrimp_cocktail"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1286",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1286"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_golden_pumpkin"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)70",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)70"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1160",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1160"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_frozen_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1161",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1161"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_magma_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1162",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1162"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_field_snack"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1163",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1163"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pancakes"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1164",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1164"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pale_broth"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1165",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1165"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_vinegar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1166",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1166"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rice"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1268",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1268"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_quartz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1167",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1167"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_seaweed"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1168",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1168"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_obsidian"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1169",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1169"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_soapstone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1170",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1170"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tom_kha_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1171",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1171"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fiddlehead_risotto"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1172",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1172"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_autumns_bounty"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1221",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1221"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_refined_quartz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1220",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1220"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_torch"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1225",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1225"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spicy_eel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1226",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1226"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dinosaur_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)43",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)43"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_skull"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1004",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1004"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_tool"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1156",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "CavemanShirt_FromPrehistoricTool"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_handaxe"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1156",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "CavemanShirt_FromPrehistoricHandAxe"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_tibia"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)49",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)49"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fossil_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1208",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1208"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bone_flute"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1242",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1242"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "bone_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1014",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1014"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "scroll_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1222",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1222"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "dwarvish_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)46",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)46"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "totem_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)44",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)44"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jack-o-lantern"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)48",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)48"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "cowboy_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1131",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1131"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_sword"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1034",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1034"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_energy_tonic"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1137",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1137"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "alcohol_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1138",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1138"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hay"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)6",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)6"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rainbow_shell"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1134",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1134"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item",
+      "season_fall"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)2",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "Dress_FromFallFlower"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sweet_pea"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1050",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1050"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)4",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)4"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fiber"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1176",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1177",
+    "Id": "BasicPullover_FromFiber"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_clay"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1001",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1001"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dandelion"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1002",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1002"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bat_wing"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1003",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1003"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1005",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1005"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "bomb_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1155",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1155"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coffee_bean"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1154",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1154"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_duck_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1270",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1270"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_plum_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1271",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1271"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crab_cakes"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1276",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1276"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_maple_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1275",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1275"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rhubarb"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1281",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "GreenButtonedVest_FromRhubarb"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spice_berry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1281",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "GreenButtonedVest_FromSpiceBerry"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_octopus"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1278",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1278"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tomato"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1282",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1282"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salmon"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1279",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1279"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ghostfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1158",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "FishShirt_FromGhostfish"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sandfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1158",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "FishShirt_FromSandfish"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_stir_fry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1274",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1274"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_radish_salad"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1277",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1277"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chowder"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1283",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1283"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_squid_ink"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1285",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1285"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_812"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1272",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "PolkaDotShirt_FromRoe"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_447"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1284",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1284"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_poppyseed_muffin"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1273",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1273"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_triple_shot_espresso"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1269",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "PourOverShirt_FromEspresso"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coffee"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1269",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "PourOverShirt_FromCoffee"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_green_tea"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1287",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1287"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_muscle_remedy"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1153",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1153"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sap"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1006",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1006"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fiddlehead_fern"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1007",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1007"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wild_horseradish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1008",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1008"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_duck_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1009",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1009"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bouquet"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1010",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1010"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ornamental_fan"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1265",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1265"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "honey_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)11",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)11"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pearl"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)69",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)69"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_frozen_tear"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1211",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1211"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dish_o_the_sea"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1214",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1214"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_glazed_yams"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1212",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1212"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_escargot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1213",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1213"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_void_essence"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1215",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1215"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cave_carrot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1011",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1011"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_duck_feather"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1012",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1012"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cranberry_candy"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1013",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1013"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chanterelle"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1015",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1015"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blueberry_tart"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1016",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1016"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_vegetable_medley"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1017",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1017"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mudstone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1018",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1018"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bean_hotpot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1020",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1020"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_complete_breakfast"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1000",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1000"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_survival_burger"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1247",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1247"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lava_eel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)45",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)45"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_caviar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)47",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)47"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_emerald"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1144",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1144"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_aquamarine"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1145",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1145"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_topaz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1146",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1146"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_iron_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1148",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1148"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_copper_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1149",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1149"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_gold_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1150",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1150"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_iridium_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1151",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1151"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_goat_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1024",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1024"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_l._goat_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1025",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1025"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rice_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1026",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1026"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bug_meat"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1027",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1027"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_strange_bun"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1210",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1210"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1029",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1029"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_calamari"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1030",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1030"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_baked_fish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1031",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1031"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salmonberry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1032",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1032"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salad"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1033",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1033"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_holly"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1035",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1035"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sashimi"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1036",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1036"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_maki_roll"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1037",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1037"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wool"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1038",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1041",
+    "Id": "(S)1038"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ice_cream"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1039",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1039"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_leek"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1042",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1042"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_snow_yam"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1044",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1044"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hardwood"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1047",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1047"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wood"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1176",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1177",
+    "Id": "BasicPullover_FromWood"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1048",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1048"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pink_cake"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1051",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1051"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lucky_lunch"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1052",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1052"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_void_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1272",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "PolkaDotShirt_FromVoidMayonnaise"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_roasted_hazelnuts"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1053",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1053"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jade"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1147",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1147"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_eel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1055",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1055"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cheese_cauliflower"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1249",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1249"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_carp_surprise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1250",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1250"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hashbrowns"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1251",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1251"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tortilla"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1252",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1252"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_morel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1257",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1257"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spring_onion"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1258",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1258"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_super_meal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1255",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_miners_treat"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)68",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)68"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wheat_flour"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1253",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1253"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sugar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1254",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1254"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_oil"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1256",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1256"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spaghetti"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1236",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1236"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fire_quartz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1057",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1057"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blackberry_cobbler"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1058",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1058"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pizza"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)57",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "RedPartyHat_FromPizza"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chocolate_cake"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)58",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "BluePartyHat_FromChocolateCake"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fish_taco"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)59",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "GreenPartyHat_FromFishTaco"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pumpkin_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1059",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1059"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pumpkin_pie"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1186",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1186"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_baryte"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1181",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1181"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_calcite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1182",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1182"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_esperite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1183",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1183"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_helvite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1201",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1202",
+    "Id": "(S)1201"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jagoite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1187",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1187"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lunarite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1188",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1188"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_malachite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1189",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1189"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lemon_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1190",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1190"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_orpiment"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1191",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1191"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pyrite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1192",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1192"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ocean_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1193",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1193"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tigerseye"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1194",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1194"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jasper"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1195",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1195"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sandstone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1196",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1196"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fire_opal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1197",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1197"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hematite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1198",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1198"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_marble"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1199",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1199"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_star_shards"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1200",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1200"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_kyanite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1203",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1203"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coconut"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1204",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1204"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jamborite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1205",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1205"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fluorapatite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1206",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1206"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_petrified_slime"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1207",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1207"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rare_disc"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1185",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1185"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bread"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1061",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1061"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_opal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1062",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1062"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rhubarb_pie"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1063",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1063"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crystal_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1064",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1064"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cheese"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1066",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1066"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_daffodil"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1067",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1067"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_farmers_lunch"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1068",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1068"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_algae_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1069",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1069"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fairy_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1070",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1070"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1071",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1071"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1216",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1216"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_large_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1218",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1218"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fruit_salad"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1072",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1072"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_thunder_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1073",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1073"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_common_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1074",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1074"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wild_bait"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1075",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1075"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cookie"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1077",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1077"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crocus"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1078",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1078"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blackberry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1079",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1079"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_alamite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1081",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1081"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_void_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1083",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1083"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "strange_doll_1"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1135",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1135"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "strange_doll_2"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1245",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1245"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "algae_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1248",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1248"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_drum"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1243",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1243"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_golden_relic"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1244",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1244"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_124"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)67",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)67"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1246",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1246"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_omelet"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1021",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1021"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ruby"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1085",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1085"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_slate"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1086",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1086"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_large_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1217",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1217"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_parsnip_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1088",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1088"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_amethyst"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1089",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1089"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "juice_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1209",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1209"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "pickle_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1091",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1091"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "jelly_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1092",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1092"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_goat_cheese"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1093",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1093"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_earth_crystal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1094",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1094"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rabbits_foot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1095",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1095"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_slime"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1096",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1096"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_basalt"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1097",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1097"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_neptunite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1098",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1098"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_purple_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1099",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1099"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_celestine"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1100",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1100"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bixite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1101",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1101"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_limestone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1102",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1102"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ghost_crystal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1103",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1103"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_geminite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1104",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1104"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_joja_cola"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1105",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1105"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_battery_pack"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1106",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1106"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_nekoite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1107",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1107"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crispy_bass"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1111",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1111"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1112",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1112"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pepper_poppers"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1180",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1180"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dolomite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1113",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1113"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_red_plate"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1184",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1184"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_solar_essence"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1219",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1219"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_diamond"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1224",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1224"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prismatic_shard"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": null,
+    "CraftedItemIds": [
+      "(P)998",
+      "(P)999",
+      "(S)1223",
+      "(S)1998",
+      "(S)1999"
+    ],
+    "CraftedItemIdFeminine": null,
+    "Id": "PrismaticClothes"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_treasure_chest"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)62",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)62"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_eggplant_parmesan"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1114",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1114"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_aerinite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1115",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1115"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salmon_dinner"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1116",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1116"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_roots_platter"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1117",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1117"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_granite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1122",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1122"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bruschetta"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1123",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1123"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "food_sauce"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)63",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)63"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fish_stew"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1124",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1124"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lobster_bisque"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1125",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1125"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coleslaw"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1126",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1126"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blobfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)56",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)56"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_iridium_ore"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1179",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1179"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chipped_amphora"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1227",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1227"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_arrowhead"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1228",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1228"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_doll"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1229",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1229"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_elvish_jewelry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1230",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1230"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chewing_stick"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1231",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1231"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "trash_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1232",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1232"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rusty_spoon"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1233",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1233"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rusty_cog"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1234",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1234"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_113"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1235",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1235"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_seed"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1237",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1237"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dried_starfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1238",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1238"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_anchor"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1239",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1239"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_glass_shards"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1240",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1240"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_trout_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1241",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1241"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "potion_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1263",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1263"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_starfruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)8",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "GeniePants_FromStarfruit"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)8",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "GeniePants_FromAncientFruit"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sweet_gem_berry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)65",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)65"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_omni_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1264",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1264"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_truffle"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1262",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "DarkBandanaShirt_FromTruffle"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_truffle_oil"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1262",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "DarkBandanaShirt_FromTruffleOil"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_artichoke_dip"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1065",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1065"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hazelnut"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1266",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1266"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_winter_root"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1267",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1267"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fruit_tree_item",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)13",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)13"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fruit_tree_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)12",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)12"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "slime_egg_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)10",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)10"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "ore_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1178",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1178"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item",
+      "season_spring"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)3",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)3"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)2",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "Dress_FromOtherFlower"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_corn"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1128",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1128"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sea_cucumber"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1142",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "TubeTop_SeaCucumber"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_super_cucumber"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1142",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "TubeTop_SuperCucumber"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cactus_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1152",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1136",
+    "Id": "(S)1152"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wheat"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1132",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1133",
+    "Id": "(S)1132"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_amaranth"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1141",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1141"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_vegetable",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1129",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": "(S)1130",
+    "Id": "(S)1129"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_vegetable",
+      "season_fall"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1140",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1140"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "tree_seed_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)53",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)53"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "syrup_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)54",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)54"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_vegetable"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1159",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1159"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fertilizer_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1174",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1174"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "quality_fertilizer_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1175",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1175"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_semi_rare"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(H)55",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(H)55"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fish_crab_pot",
+      "fish_ocean"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1261",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1261"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fish_crab_pot",
+      "fish_freshwater"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1260",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1260"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_ocean"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1259",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1259"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_lake"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1157",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "FishingVest_FromLakeFish"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_pond"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1157",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "FishingVest_FromFishPondFish"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_river"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1158",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "FishShirt_FromRiverFish"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "forage_item_beach"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(S)1139",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(S)1139"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fruits",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)1",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)1"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fruits"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemId": "(P)0",
+    "CraftedItemIds": null,
+    "CraftedItemIdFeminine": null,
+    "Id": "(P)0"
+  }
+]

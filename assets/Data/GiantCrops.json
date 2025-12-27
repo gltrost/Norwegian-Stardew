@@ -1,0 +1,217 @@
+{
+  "Cauliflower": {
+    "FromItemId": "(O)190",
+    "HarvestItems": [
+      {
+        "Chance": 1.0,
+        "ForShavingEnchantment": null,
+        "ScaledMinStackWhenShaving": 2,
+        "ScaledMaxStackWhenShaving": 2,
+        "Condition": null,
+        "Id": "(O)190",
+        "ItemId": "(O)190",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 15,
+        "MaxStack": 21,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\Crops",
+    "TexturePosition": {
+      "X": 112,
+      "Y": 512
+    },
+    "TileSize": {
+      "X": 3,
+      "Y": 3
+    },
+    "Health": 3,
+    "Chance": 0.01,
+    "Condition": null,
+    "CustomFields": null
+  },
+  "Melon": {
+    "FromItemId": "(O)254",
+    "HarvestItems": [
+      {
+        "Chance": 1.0,
+        "ForShavingEnchantment": null,
+        "ScaledMinStackWhenShaving": 2,
+        "ScaledMaxStackWhenShaving": 2,
+        "Condition": null,
+        "Id": "(O)254",
+        "ItemId": "(O)254",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 15,
+        "MaxStack": 21,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\Crops",
+    "TexturePosition": {
+      "X": 160,
+      "Y": 512
+    },
+    "TileSize": {
+      "X": 3,
+      "Y": 3
+    },
+    "Health": 3,
+    "Chance": 0.01,
+    "Condition": null,
+    "CustomFields": null
+  },
+  "Pumpkin": {
+    "FromItemId": "(O)276",
+    "HarvestItems": [
+      {
+        "Chance": 1.0,
+        "ForShavingEnchantment": null,
+        "ScaledMinStackWhenShaving": 2,
+        "ScaledMaxStackWhenShaving": 2,
+        "Condition": null,
+        "Id": "(O)276",
+        "ItemId": "(O)276",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 15,
+        "MaxStack": 21,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "TileSheets\\Crops",
+    "TexturePosition": {
+      "X": 208,
+      "Y": 512
+    },
+    "TileSize": {
+      "X": 3,
+      "Y": 3
+    },
+    "Health": 3,
+    "Chance": 0.01,
+    "Condition": null,
+    "CustomFields": null
+  },
+  "Powdermelon": {
+    "FromItemId": "(O)Powdermelon",
+    "HarvestItems": [
+      {
+        "Chance": 1.0,
+        "ForShavingEnchantment": null,
+        "ScaledMinStackWhenShaving": 2,
+        "ScaledMaxStackWhenShaving": 2,
+        "Condition": null,
+        "Id": "(O)Powdermelon",
+        "ItemId": "(O)Powdermelon",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 15,
+        "MaxStack": 21,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 320,
+      "Y": 448
+    },
+    "TileSize": {
+      "X": 3,
+      "Y": 3
+    },
+    "Health": 3,
+    "Chance": 0.01,
+    "Condition": null,
+    "CustomFields": null
+  },
+  "QiFruit": {
+    "FromItemId": "(O)889",
+    "HarvestItems": [
+      {
+        "Chance": 1.0,
+        "ForShavingEnchantment": null,
+        "ScaledMinStackWhenShaving": 2,
+        "ScaledMaxStackWhenShaving": 2,
+        "Condition": null,
+        "Id": "(O)889",
+        "ItemId": "(O)889",
+        "RandomItemId": null,
+        "MaxItems": null,
+        "MinStack": 20,
+        "MaxStack": 26,
+        "Quality": -1,
+        "ObjectInternalName": null,
+        "ObjectDisplayName": null,
+        "ObjectColor": null,
+        "ToolUpgradeLevel": -1,
+        "IsRecipe": false,
+        "StackModifiers": null,
+        "StackModifierMode": "Stack",
+        "QualityModifiers": null,
+        "QualityModifierMode": "Stack",
+        "ModData": null,
+        "PerItemCondition": null
+      }
+    ],
+    "Texture": "LooseSprites\\Cursors_1_6",
+    "TexturePosition": {
+      "X": 368,
+      "Y": 448
+    },
+    "TileSize": {
+      "X": 3,
+      "Y": 3
+    },
+    "Health": 3,
+    "Chance": 0.01,
+    "Condition": null,
+    "CustomFields": null
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "0": {
+    "TriggerCondition": null,
+    "RingCondition": null,
+    "FromNpc": "Vincent",
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_Vincent]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": null,
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "1": {
+    "TriggerCondition": null,
+    "RingCondition": null,
+    "FromNpc": "Lewis",
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_Lewis]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": null,
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "2": {
+    "TriggerCondition": null,
+    "RingCondition": null,
+    "FromNpc": "Pierre",
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_Pierre]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": null,
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "3": {
+    "TriggerCondition": null,
+    "RingCondition": null,
+    "FromNpc": null,
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_Foreign]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": "#",
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "4": {
+    "TriggerCondition": "PLAYER_HAS_SEEN_EVENT Any 2120303",
+    "RingCondition": "PLAYER_HAS_SEEN_EVENT Current 2120303",
+    "FromNpc": null,
+    "FromPortrait": "Portraits\\Bear",
+    "FromDisplayName": "[LocalizedText Strings\\NPCNames:Bear]",
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_Bear]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": null,
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "5": {
+    "TriggerCondition": null,
+    "RingCondition": null,
+    "FromNpc": null,
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_HatMouse]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": "#",
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "6": {
+    "TriggerCondition": "PLAYER_HAS_MAIL Any cursed_doll",
+    "RingCondition": "PLAYER_HAS_MAIL Current cursed_doll",
+    "FromNpc": null,
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\Characters:Phone_Ring_Cursed]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": "#",
+    "MaxCalls": 1,
+    "CustomFields": null
+  },
+  "7": {
+    "TriggerCondition": null,
+    "RingCondition": null,
+    "FromNpc": null,
+    "FromPortrait": null,
+    "FromDisplayName": null,
+    "Dialogue": "[LocalizedText Strings\\\\Characters:Phone_Ring_RoboCaller]",
+    "IgnoreBaseChance": false,
+    "SimpleDialogueSplitBy": "#",
+    "MaxCalls": 1,
+    "CustomFields": null
+  }
+}

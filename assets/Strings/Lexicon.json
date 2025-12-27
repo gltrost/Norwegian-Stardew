@@ -1,0 +1,22 @@
+{
+  "RandomNegativeItemNoun": "søppel#søppel#søppel#slask#dritt",
+  "RandomPositiveAdjective_Child": "kult#morsomt#fint#fint#super#flott",
+  "RandomPositiveAdjective_AdultMale": "interessant#spennende#ryddig#morsomt#flott#fantastisk",
+  "RandomPositiveAdjective_AdultFemale": "fantastisk#utrolig#hjertevarmende#magisk#utrolig#herlig#spennende#herlig",
+  "RandomPositiveAdjective_PlaceOrEvent": "fantastisk#utrolig#hjertevarmende#magisk#utrolig#herlig#spennende#herlig",
+  "RandomDeliciousAdjective": "deilig#velsmakende#herlig#tilfredsstillende#mettende#scrumptious#appetittvekkende#herlig",
+  "RandomDeliciousAdjective_Child": "kjempegodt",
+  "RandomNegativeFoodAdjective_Child": "brutto",
+  "RandomNegativeFoodAdjective_Polite": "...interessant#...uvanlig#...annerledes#...ukonvensjonelt",
+  "RandomNegativeFoodAdjective": "ekkel#grov#ekkel#avskyelig#opprørsk#kvallig#forferdelig#frastøtende#kvalmende#fæl#grusom#råtten",
+  "RandomSlightlyPositiveFoodAdjective": "grei#god#spiselig",
+  "ChildTerm_Male": "gutt",
+  "ChildTerm_Female": "pike",
+  "Pronoun_Male": "ham",
+  "Pronoun_Female": "henne",
+  "QuestionDialogue_Yes": "Ja",
+  "QuestionDialogue_No": "Ingen",
+  "GenericPlayerTerm": "farmer",
+  "Possessive_Pronoun_Male": "hans",
+  "Possessive_Pronoun_Female": "henne"
+}
