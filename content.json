@@ -117,7 +117,7 @@
         {
             "LogName": "Other Strings",
             "Action": "Load",
-            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI",
+            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI, Strings/Tools, Strings/Weapons",
             "FromFile": "assets/{{Target}}.json",
             "When": {
                 "Language": "no"
