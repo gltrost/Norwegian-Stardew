@@ -264,7 +264,6 @@
     - [ ] Elliott.json
     - [ ] Emily.json
     - [ ] Evelyn.json
-    - [ ] Evelyn.json~
     - [ ] George.json
     - [ ] Gus.json
     - [ ] Haley.json
@@ -279,7 +278,6 @@
     - [ ] Maru.json
     - [ ] Pam.json
     - [ ] Penny.json
-    - [ ] Penny.json~
     - [ ] Pierre.json
     - [ ] Robin.json
     - [ ] Sam.json
