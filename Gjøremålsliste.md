@@ -1,4 +1,4 @@
-# Gjøre-liste: Dobbeltsjekk JSON-filer og endre .pgn-filer
+# Gjøremålsliste: Dobbeltsjekk JSON-filer og endre .pgn-filer
 
 - [ ] Characters
   - [ ] Dialogue
