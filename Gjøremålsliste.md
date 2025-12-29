@@ -105,7 +105,7 @@
     - [ ] Sewer.json
     - [ ] Sunroom.json
     - [ ] Temp.json
-    - [ ] Tent.json
+    - [x] Tent.json
     - [ ] Town.json
     - [ ] Trailer.json
     - [ ] Trailer_Big.json
