@@ -1,4 +1,4 @@
-# Gjøre-liste: Dobbeltsjekk JSON-filer og endre .pgn-filer
+# Gjøremålsliste: Dobbeltsjekk JSON-filer og endre .pgn-filer
 
 - [ ] Characters
   - [ ] Dialogue
@@ -105,7 +105,7 @@
     - [ ] Sewer.json
     - [ ] Sunroom.json
     - [ ] Temp.json
-    - [ ] Tent.json
+    - [x] Tent.json
     - [ ] Town.json
     - [ ] Trailer.json
     - [ ] Trailer_Big.json
