@@ -165,14 +165,14 @@
 - [ ] Maps
   - [ ] DesertTiles.png
   - [ ] Festivals.png
-  - [ ] TownIndoors.png
-  - [ ] bathhouse_tiles.png
-  - [ ] coopTiles.png
-  - [ ] fall_beach.png
-  - [ ] fall_outdoorsTileSheet.png
+  - [x] TownIndoors.png
+  - [x] bathhouse_tiles.png
+  - [x] coopTiles.png
+  - [x] fall_beach.png
+  - [x] fall_outdoorsTileSheet.png
   - [ ] fall_town.png
   - [ ] samshowtiles.png
-  - [ ] spring_beach.png
+  - [x] spring_beach.png
   - [ ] spring_outdoorsTileSheet.png
   - [ ] spring_town.png
   - [ ] springobjects.png
