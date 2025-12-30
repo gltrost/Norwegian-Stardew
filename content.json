@@ -62,7 +62,7 @@
         {
             "LogName": "Various Data",
             "Action": "Load",
-            "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/Locations, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/PaintData, Data/Quests, Data/SecretNotes, Data/weapons",
+            "Target": "Data/Achievements, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCGiftTastes, Data/Quests, Data/SecretNotes",
             "FromFile": "assets/{{Target}}.json",
             "When": {
                 "Language": "no"
@@ -117,7 +117,7 @@
         {
             "LogName": "Other Strings",
             "Action": "Load",
-            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI, Strings/Tools, Strings/Weapons",
+            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI, Strings/Tools, Strings/Weapons, Strings/1_6_Strings",
             "FromFile": "assets/{{Target}}.json",
             "When": {
                 "Language": "no"
