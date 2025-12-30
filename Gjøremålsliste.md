@@ -155,11 +155,11 @@
   - [ ] hats.json
   - [ ] mail.json
 - [ ] LooseSprites
-  - [ ] Billboard.png
+  - [x] Billboard.png
   - [ ] ControllerMaps.png
   - [ ] Cursors.png
   - [ ] JojaCDForm.png
-  - [ ] JunimoNote.png
+  - [x] JunimoNote.png
   - [ ] Movies.png
   - [ ] skillTitles.png
 - [ ] Maps
