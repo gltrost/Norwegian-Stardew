@@ -184,9 +184,8 @@
   - [x] winter_outdoorsTileSheet.png
   - [ ] winter_town.png
 - [ ] Minigames
-  - [ ] Intro.png
   - [ ] TitleButtons.png
-  - [ ] jojacorps.png
+  - [x] jojacorps.png
 - [ ] Strings
   - [ ] 1_6_Strings.json
   - [ ] BigCraftables.json
