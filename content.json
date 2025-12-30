@@ -99,7 +99,7 @@
         {
             "LogName": "Minigames",
             "Action": "Load",
-            "Target": "Minigames/Intro, Minigames/jojacorps, Minigames/TitleButtons",
+            "Target": "Minigames/jojacorps, Minigames/TitleButtons",
             "FromFile": "assets/{{Target}}.png",
             "When": {
                 "Language": "no"
