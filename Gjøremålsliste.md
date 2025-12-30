@@ -173,15 +173,15 @@
   - [ ] fall_town.png
   - [ ] samshowtiles.png
   - [x] spring_beach.png
-  - [ ] spring_outdoorsTileSheet.png
+  - [x] spring_outdoorsTileSheet.png
   - [ ] spring_town.png
-  - [ ] springobjects.png
-  - [ ] summer_beach.png
-  - [ ] summer_outdoorsTileSheet.png
+  - [x] springobjects.png
+  - [x] summer_beach.png
+  - [x] summer_outdoorsTileSheet.png
   - [ ] summer_town.png
   - [ ] townInterior.png
-  - [ ] winter_beach.png
-  - [ ] winter_outdoorsTileSheet.png
+  - [x] winter_beach.png
+  - [x] winter_outdoorsTileSheet.png
   - [ ] winter_town.png
 - [ ] Minigames
   - [ ] Intro.png
