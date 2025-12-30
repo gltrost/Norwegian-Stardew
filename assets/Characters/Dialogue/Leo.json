@@ -1,14 +1,14 @@
 {
-  "Mon": "Hei... Alt i orden?",
+  "Mon": "Hei... Er alt bra?",
   "AcceptGift_(O)StardropTea": "Wow, smaker akkurat som gylne valnøtter! Dette er flott!",
-  "AcceptGift_(TR)ParrotEgg": "Dette er et dyrebart egg... En baby! Jeg er glad du tok det til meg, jeg skal oppbevare det trygt.",
-  "Mon4": "Jeg har lært mye av papegøyefamilien min...#$b#Men jeg er sikker på at det er mye mer der ute som jeg ikke vet.$s",
-  "Tue": "Når Sun er sint, føles det bra i jungelen.#$e#Sun finner oss ikke under bladene. Vi lurer ham! Haha...$h",
+  "AcceptGift_(TR)ParrotEgg": "Dette er et verdifullt egg... En baby! Jeg er glad du tok det med til meg, jeg skal passe godt på det.",
+  "Mon4": "Jeg har lært mye av papegøyefamilien min...#$b#Men jeg er sikker på at det er mye mer der ute jeg ikke vet.$s",
+  "Tue": "Når Sol er sint, føles det godt i jungelen.#$e#Sol finner oss ikke under bladene. Vi lurer ham! Haha...$h",
   "Wed": "...Beklager... Jeg er sjenert i dag.$3",
   "Wed2": "Vær forsiktig i vulkanen... åndene liker ikke utenforstående.",
-  "Thu": "Har du møtt de andre som deg?#$b#Jeg snakker ikke så mye med dem. Jeg føler meg tryggere med min egen type...$3",
-  "Fri": "En gang... jeg var på toppen av vulkanen om natten, og jeg så lys langt, langt unna.#$b#Jeg lurer på om det er andre fuglefamilier der ute?$3",
-  "Fri4": "Jeg lurer på om jeg kunne se hjemmet ditt fra toppen av vulkanen?",
-  "Sat": "...Jeg er trist i dag.$s#$e#Du fortsetter... ha det gøy. La meg være trist.$s",
-  "Sun": "Når det regner, kommer rare fugler på besøk.#$b#Jeg prøver å snakke med dem... men de flyr bort.$s#$b#Jeg antar at de ikke vil være venner...$s"
+  "Thu": "Har du møtt de andre som deg?#$b#Jeg snakker ikke så mye med dem. Jeg føler meg tryggere med mine egne...$3",
+  "Fri": "En gang... var jeg på toppen av vulkanen om natten, og jeg så lys langt, langt borte.#$b#Jeg lurer på om det er andre fuglefamilier der ute?$3",
+  "Fri4": "Jeg lurer på om jeg kunne sett hjemmet ditt fra toppen av vulkanen?",
+  "Sat": "...Jeg er trist i dag.$s#$e#Du får gå videre... ha det gøy. La meg være trist.$s",
+  "Sun": "Når det regner, kommer det merkelige fugler på besøk.#$b#Jeg prøver å snakke med dem... men de flyr bort.$s#$b#Jeg antar de ikke vil være venner...$s"
 }

@@ -122,15 +122,6 @@
             "When": {
                 "Language": "no"
             }
-        },
-        {
-            "LogName": "Credits",
-            "Action": "Load",
-            "Target": "Strings/credits",
-            "FromFile": "assets/{{Target}}.json",
-            "When": {
-                "Language": "no"
-            }
         }
     ]
 }
