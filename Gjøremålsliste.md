@@ -183,8 +183,8 @@
   - [x] winter_beach.png
   - [x] winter_outdoorsTileSheet.png
   - [ ] winter_town.png
-- [ ] Minigames
-  - [ ] TitleButtons.png
+- [x] Minigames
+  - [x] TitleButtons.png
   - [x] jojacorps.png
 - [ ] Strings
   - [ ] 1_6_Strings.json
