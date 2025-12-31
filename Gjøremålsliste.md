@@ -163,26 +163,26 @@
   - [ ] Movies.png
   - [ ] skillTitles.png
 - [ ] Maps
-  - [ ] DesertTiles.png
+  - [x] DesertTiles.png
   - [ ] Festivals.png
   - [x] TownIndoors.png
   - [x] bathhouse_tiles.png
   - [x] coopTiles.png
   - [x] fall_beach.png
   - [x] fall_outdoorsTileSheet.png
-  - [ ] fall_town.png
+  - [x] fall_town.png
   - [ ] samshowtiles.png
   - [x] spring_beach.png
   - [x] spring_outdoorsTileSheet.png
-  - [ ] spring_town.png
+  - [x] spring_town.png
   - [x] springobjects.png
   - [x] summer_beach.png
   - [x] summer_outdoorsTileSheet.png
-  - [ ] summer_town.png
+  - [x] summer_town.png
   - [ ] townInterior.png
   - [x] winter_beach.png
   - [x] winter_outdoorsTileSheet.png
-  - [ ] winter_town.png
+  - [x] winter_town.png
 - [x] Minigames
   - [x] TitleButtons.png
   - [x] jojacorps.png
