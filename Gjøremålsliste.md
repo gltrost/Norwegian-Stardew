@@ -162,16 +162,16 @@
   - [x] JunimoNote.png
   - [ ] Movies.png
   - [ ] skillTitles.png
-- [ ] Maps
+- [x] Maps
   - [x] DesertTiles.png
-  - [ ] Festivals.png
+  - [x] Festivals.png
   - [x] TownIndoors.png
   - [x] bathhouse_tiles.png
   - [x] coopTiles.png
   - [x] fall_beach.png
   - [x] fall_outdoorsTileSheet.png
   - [x] fall_town.png
-  - [ ] samshowtiles.png
+  - [x] samshowtiles.png
   - [x] spring_beach.png
   - [x] spring_outdoorsTileSheet.png
   - [x] spring_town.png
@@ -179,7 +179,7 @@
   - [x] summer_beach.png
   - [x] summer_outdoorsTileSheet.png
   - [x] summer_town.png
-  - [ ] townInterior.png
+  - [x] townInterior.png
   - [x] winter_beach.png
   - [x] winter_outdoorsTileSheet.png
   - [x] winter_town.png
