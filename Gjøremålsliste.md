@@ -157,7 +157,7 @@
 - [ ] LooseSprites
   - [x] Billboard.png
   - [ ] ControllerMaps.png
-  - [ ] Cursors.png
+  - [x] Cursors.png
   - [ ] JojaCDForm.png
   - [x] JunimoNote.png
   - [ ] Movies.png
