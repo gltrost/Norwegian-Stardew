@@ -158,10 +158,10 @@
   - [x] Billboard.png
   - [ ] ControllerMaps.png
   - [x] Cursors.png
-  - [ ] JojaCDForm.png
+  - [x] JojaCDForm.png
   - [x] JunimoNote.png
-  - [ ] Movies.png
-  - [ ] skillTitles.png
+  - [x] Movies.png
+  - [x] skillTitles.png
 - [x] Maps
   - [x] DesertTiles.png
   - [x] Festivals.png
