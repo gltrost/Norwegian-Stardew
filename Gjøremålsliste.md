@@ -154,9 +154,9 @@
   - [ ] WorldMap.json
   - [ ] hats.json
   - [ ] mail.json
-- [ ] LooseSprites
+- [x] LooseSprites
   - [x] Billboard.png
-  - [ ] ControllerMaps.png
+  - [x] ControllerMaps.png
   - [x] Cursors.png
   - [x] JojaCDForm.png
   - [x] JunimoNote.png
