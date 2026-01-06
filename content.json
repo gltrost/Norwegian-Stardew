@@ -99,7 +99,7 @@
         {
             "LogName": "Minigames",
             "Action": "Load",
-            "Target": "Minigames/Intro, Minigames/jojacorps, Minigames/TitleButtons",
+            "Target": "Minigames/jojacorps, Minigames/TitleButtons",
             "FromFile": "assets/{{Target}}.png",
             "When": {
                 "Language": "no"
@@ -117,7 +117,7 @@
         {
             "LogName": "Other Strings",
             "Action": "Load",
-            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI, Strings/Tools, Strings/Weapons, Strings/1_6_Strings",
+            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI, Strings/BigCraftables, Strings/Tools, Strings/Weapons, Strings/1_6_Strings",
             "FromFile": "assets/{{Target}}.json",
             "When": {
                 "Language": "no"
