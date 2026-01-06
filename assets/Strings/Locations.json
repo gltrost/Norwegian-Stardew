@@ -313,7 +313,7 @@
   "Gourmand_LastReward": "*Kriibbitt*... Ja... Du har gjort meg en stor tjeneste. Du har gitt en gammel padde en siste tur nedover minnenes gate...|Her er en siste belønning til deg, venn.",
   "Gourmand_Finished": "*Kriibbitt*... Godt å se deg igjen, min venn.|Du har min velsignelse til å dyrke disse åkrene. Måtte regnet være med deg!",
   "Gourmand_InProgress": "Ah... Jeg ser at du dyrker det jeg søker. Det er imidlertid fortsatt bare et barn. Kom tilbake når det er modent...",
-  "Saloon_Arcade_Cowboy_Menu": "= Journey Of The Prairie King =",
+  "Saloon_Arcade_Cowboy_Menu": "= Præriekongens reise =",
   "Saloon_Arcade_Cowboy_Continue": "Fortsett reisen",
   "Saloon_Arcade_Cowboy_NewGame": "Start ny reise",
   "IslandHut_Event_ParrotBoyIntro": "continue/-1000 -1000/farmer 7 7 3/skippable/specificTemporarySprite removeSprite 777/addTemporaryActor ParrotBoy 16 32 5 2 2 true ???/pause 2000/viewport 5 7 true/pause 2000/emote ParrotBoy 8/pause 1500/message \"Gutten ser på deg med nysgjerrige øyne...\"/pause 1500/animate ParrotBoy false true 500 17 0/playSound parrot_squawk/pause 1000/playSound parrot_squawk/pause 800/stopAnimation ParrotBoy/specificTemporarySprite parrotHutSquawk/pause 800/move farmer -2 0 0/pause 500/emote farmer 8/pause 1000/message \"Han ser ut til å ha et nært bånd til papegøyene.\"/pause 500/message \"Men han er for sjenert til å nærme seg deg akkurat nå.\"/pause 1400/faceDirection farmer 1/pause 500/message \"Kanskje det å bli venn med papegøyene kan gi ham tillit?\"/pause 1000/end position 5 7",
