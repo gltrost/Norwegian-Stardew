@@ -78,7 +78,7 @@
   "summer_Mon": "Hei, bondefyr. Du ser litt solbrent ut.^Hei Bondejente. Du har fått en fin brunfarge.$h#$e#Jo mer jeg trener denne sommeren, jo lettere blir det for meg å bli proff.#$e#Da kan du si at du kjente meg en gang. Kult, eller hva?",
   "summer_Tue": "Hvis håret mitt ikke var så populært blant damene, sverger jeg at jeg ville barbert det av på et sekund.#$e#*sukk*... Livet kan være tøft.",
   "summer_Wed": "Hei bondefyr, jeg har et spørsmål til deg.^Hei Bondejente, jeg har et spørsmål til deg.#$b#$q 52/53 summer_Wed_01_old#Tror du jeg noen gang blir proff?#$r 52 30 summer_Wed_01_01#Du er bestemt til å bli en sportslegende#$r 52 0 summer_Wed_01_02#Kanskje, hvis du trener mye#$r 53 -50 summer_Wed_01_03#Nei, du vil mest sannsynlig mislykkes og bli selger",
-  "summer_Wed_01_old": "$p 52#Hei, når jeg blir proff, kan du si at du var min første \"fan\". Ikke verst, eller hva?|Hei, jeg har trent dobbelt så hardt, så jeg kan bli proff og motbevise deg. Bare vent og se.$a",
+  "summer_Wed_01_old": "$p 52#Hei, når jeg blir proff, kan du si at du var min første «fan». Ikke verst, eller hva?|Hei, jeg har trent dobbelt så hardt, så jeg kan bli proff og motbevise deg. Bare vent og se.$a",
   "summer_Wed_01_01": "Hei, nå snakker vi!$h#$e#Du er kulere enn jeg trodde.",
   "summer_Wed_01_02": "Ja, vel, jeg er så god at jeg ikke trenger å trene så mye.$u",
   "summer_Wed_01_03": "Det er vanvittig. Du er bare sjalu på at jeg er talentfull og populær, og det er ikke du.$a^Det er latterlig. Du er bare sjalu på at jeg er mye mer populær enn du noen gang kommer til å bli, freak.$a#$e#Kom deg vekk fra meg.$a",

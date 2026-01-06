@@ -29,7 +29,7 @@
   "dumped_Girls": "Jeg vil ikke se deg på en stund...$s",
   "secondChance_Girls": "Du forårsaket mye sorg med det du gjorde... men jeg er klar til å legge fortiden bak oss.$s",
   "Beach": "Jeg kom for lyden av havet. Vakkert, ikke sant?",
-  "Mon": "Trærne ser fine ut i dag, ikke sant?#$q 21/22/211132 Mon_old#Så hvorfor ble du bonde?#$r 21 -5 Mon_21#Jeg vil tjene masse penger.#$r 22 5 Mon_22#Det er mer \"ekte\" enn å bo i byen.#$r 211132 5 Mon_211132#For å følge i bestefars fotspor.#$r 22 5 Mon_22#Jeg ville flykte fra mitt gamle liv.",
+  "Mon": "Trærne ser fine ut i dag, ikke sant?#$q 21/22/211132 Mon_old#Så hvorfor ble du bonde?#$r 21 -5 Mon_21#Jeg vil tjene masse penger.#$r 22 5 Mon_22#Det er mer «ekte» enn å bo i byen.#$r 211132 5 Mon_211132#For å følge i bestefars fotspor.#$r 22 5 Mon_22#Jeg ville flykte fra mitt gamle liv.",
   "Mon_old": "$p 21#Så tjener du så mye penger som du håpet?|Å tilbringe tid i naturen er veldig givende.",
   "Mon_21": "Hmm. Det virker litt overfladisk, ikke sant?$s",
   "Mon_22": "Hei... Det er stort sett grunnen til at jeg kom hit også!$h#$b#Jeg ville ha mer kontakt med naturen...",
