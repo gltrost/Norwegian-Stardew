@@ -38,7 +38,7 @@
   "Gus_RE_Greeting_0": "Jeg har lyst til å lage min berømte gigantiske omelett",
   "Gus_RE_Greeting_1": "Jeg har lyst til å lage en ny gigantisk omelett",
   "Lewis_Name": "Avlingsbestilling",
-  "Lewis_Text": "{Text} Alle som leverer 100 {Crop:TextPlural} innen sesongslutt, vil motta en betydelig belønning fra Pelikanbys jordbruksfond.",
+  "Lewis_Text": "{Text} Alle som leverer 100 {Crop:TextPlural} innen sesongslutt, vil motta en betydelig belønning fra Pelikanbyens jordbruksfond.",
   "Lewis_Objective_1_Text": "Høst 100 {Crop:Text}.",
   "Lewis_Objective_0_Text": "Send 100 {Crop:Text}.",
   "Lewis_RE_Text_0": "{Crop:TextPluralCapitalized} er svært etterspurt i år.",
