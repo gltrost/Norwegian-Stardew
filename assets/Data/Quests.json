@@ -1,9 +1,9 @@
 {
   "1": "Location/Møt trollmannen/Du mottok et brev fra den lokale trollmannen. Han hevder å ha informasjon om det gamle samfunnshuset./Gå inn i trollmannens tårn./WizardHouse/-1/0/-1/false",
-  "2": "Basic/Den mystiske Qi/I en hemmelig låst boks fant du en lapp med merkelige instruksjoner. Den er signert av en 'Mr. Qi'./Legg en regnbueskjell i boksen ved togplattformen./null/-1/0/-1/false",
-  "3": "Basic/Den mystiske Qi/Du har funnet en annen lapp skrevet av 'Mr. Qi'. Forespørselen er enda mer uvanlig denne gangen./Plasser 10 beter i ordfører Lewis' kjøleskap./null/-1/0/-1/false",
+  "2": "Basic/Den mystiske Qi/I en hemmelig låst boks fant du en lapp med merkelige instruksjoner. Den er signert av en 'Herr Qi'./Legg en regnbueskjell i boksen ved togplattformen./null/-1/0/-1/false",
+  "3": "Basic/Den mystiske Qi/Du har funnet en annen lapp skrevet av 'Herr Qi'. Forespørselen er enda mer uvanlig denne gangen./Plasser 10 beter i ordfører Lewis' kjøleskap./null/-1/0/-1/false",
   "4": "Basic/Den mystiske Qi/Du har funnet enda en merkelig lapp i ordførerens kjøleskap. Denne gangen er instruksjonene mer kryptiske./»Gi sanddragen sitt siste måltid.»/null/-1/0/-1/false",
-  "5": "Basic/Den mystiske Qi/Du fant en annen lapp i sanddragens øye. Det ser ut til at Mr. Qis merkelige åtseljakt er over./Inspiser tømmerhaugen ved siden av huset ditt./null/-1/0/-1/false",
+  "5": "Basic/Den mystiske Qi/Du fant en annen lapp i sanddragens øye. Det ser ut til at Herr Qis merkelige åtseljakt er over./Inspiser tømmerhaugen ved siden av huset ditt./null/-1/0/-1/false",
   "6": "ItemHarvest/Komme i gang/Hvis du vil bli bonde, må du starte med det grunnleggende. Bruk hakken din til å bearbeide jorda, og bruk deretter en frøpakke på den bearbeidede jorda for å så en avling. Vann hver dag til avlingen er klar for innhøsting./Dyrk og høst en pastinakk./(O)24/h7 8/100/-1/true",
   "7": "Building/Oppdra dyr/Robin, den lokale snekkeren, bor nord for byen. I bytte mot råvarer og penger, vil hun bygge nye bygninger på gården din. Du trenger henne for å bygge et hønsehus eller en låve slik at du kan oppdra dyr./Bygg et hønsehus./Coop/-1/100/-1/true",
   "8": "Crafting/Fremgang/Etter hvert som du får erfaring, vil du oppdage nye håndverks oppskrifter for å øke fortjenesten og gjøre livet enklere. Et fugleskremsel, for eksempel, vil hindre kråker i å spise på dine dyrebare avlinger./Nå Jordbruk nivå 1 og lag et fugleskremsel./(BC)8/-1/100/-1/true",
