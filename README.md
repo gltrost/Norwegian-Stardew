@@ -2,7 +2,7 @@ If you have any issues with the following instructions, notify me by making an i
 
 Hvis du har problemer med følgende instruksjoner, gi meg beskjed ved å legge inn et problem i dette depotet, så skal jeg prøve å svare så raskt som mulig.
 
-# English Installation instructions:
+# English Installation Instructions:
 
 Note: The following mod ONLY works on computers. This mod cannot be used on a game-console. 
 
@@ -32,7 +32,7 @@ Hvis du laster ned denne modden fra github, kan du gjøre følgende for å bruke
 
 3. Last ned `Content Patcher`, en avhengighet for `Norwegian-Stardew` https://www.nexusmods.com/stardewvalley/mods/1915 . Denne modden skal gå i `Mods`-mappen din. For å finne dette, se https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder.
 
-4. For å laste ned norsk-Stardew, gå til forsiden av depotet (https://github.com/gltrost/Norwegian-Stardew), trykk på den grønne knappen som sier `<> Code`, og trykk deretter på `Download Zip` i rullegardinmenyen. Finn den nedlastede filen på datamaskinen din, unzip (pakk ut) filen og plasser filen i samme `Mods`-mappe som `Content Patcher`..
+4. For å laste ned norsk-Stardew, gå til forsiden av depotet (https://github.com/gltrost/Norwegian-Stardew), trykk på den grønne knappen som sier `<> Code`, og trykk deretter på `Download Zip` i rullegardinmenyen. Finn den nedlastede filen på datamaskinen din, unzip (pakk ut) filen og plasser filen i samme `Mods`-mappe som `Content Patcher`.
 
 5. Start Stardew Valley på nytt.
 
