@@ -3,14 +3,14 @@
 - [ ] Characters
   - [ ] Dialogue
     - [ ] Abigail.json
-    - [ ] Alex.json
+    - [x] Alex.json
     - [ ] Caroline.json
     - [ ] Clint.json
     - [ ] Demetrius.json
     - [ ] Dwarf.json
     - [ ] Elliott.json
     - [ ] Emily.json
-    - [ ] Evelyn.json
+    - [x] Evelyn.json
     - [ ] George.json
     - [ ] Gil.json
     - [ ] Gus.json
