@@ -1,3 +1,52 @@
+# Oversett følgende karaktererer
+
+- [ ] Alex
+- [ ] Elliott
+- [ ] Harvey
+- [ ] Sam
+- [ ] Sebastian
+- [ ] Shane
+- [ ] Abigail
+- [ ] Emily
+- [ ] Haley
+- [ ] Leah
+- [ ] Maru
+- [ ] Penny
+- [ ] Caroline
+- [ ] Clint
+- [ ] Demetrius
+- [ ] Dwarf
+- [ ] Evelyn
+- [ ] George
+- [ ] Gus
+- [ ] Jas
+- [ ] Jodi
+- [ ] Kent
+- [ ] Krobus
+- [ ] Leo
+- [ ] Lewis
+- [ ] Linus
+- [ ] Marnie
+- [ ] Pam
+- [ ] Pierre
+- [ ] Robin
+- [ ] Sandy
+- [ ] Vincent
+- [ ] Willy
+- [ ] Wizard
+- [ ] Birdie
+- [ ] Bouncer (Dørvakt)
+- [ ] Fizz
+- [ ] Gil
+- [ ] Governor
+- [ ] Grandpa (Bestefar)
+- [ ] Gunther
+- [ ] Henchman (Lakei)
+- [ ] Marlon
+- [ ] Morris
+- [ ] Mr. Qi (Herr Qi)
+- [ ] Professor Snail (Profesor Snegl)
+
 # Gjøremålsliste: Dobbeltsjekk JSON-filer og endre .pgn-filer
 
 - [ ] Characters
