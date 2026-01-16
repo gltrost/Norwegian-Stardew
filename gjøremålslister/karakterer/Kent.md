@@ -1,0 +1,17 @@
+[ ] Kent
+- [ ] assets/Characters/Dialogue/Kent.json
+- [ ] assets/Data/Events/Farm.json
+- [ ] assets/Data/Events/Saloon.json
+- [ ] assets/Data/Events/SamHouse.json
+- [ ] assets/Data/Festivals/fall16.json
+- [ ] assets/Data/Festivals/fall27.json
+- [ ] assets/Data/Festivals/spring13.json
+- [ ] assets/Data/Festivals/spring24.json
+- [ ] assets/Data/Festivals/summer11.json
+- [ ] assets/Data/Festivals/summer28.json
+- [ ] assets/Data/Festivals/winter25.json
+- [ ] assets/Data/Festivals/winter8.json
+- [ ] assets/Data/NPCGiftTastes.json
+- [ ] assets/Data/mail.json
+- [ ] assets/Strings/1_6_Strings.json
+- [ ] assets/Strings/MovieReactions.json
