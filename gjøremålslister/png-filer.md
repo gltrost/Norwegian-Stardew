@@ -1,0 +1,33 @@
+[x] Oversett .png-filer 
+- [x] LooseSprites
+  - [x] Billboard.png
+  - [x] ControllerMaps.png
+  - [x] Cursors.png
+  - [x] JojaCDForm.png
+  - [x] JunimoNote.png
+  - [x] Movies.png
+  - [x] skillTitles.png
+- [x] Maps
+  - [x] DesertTiles.png
+  - [x] Festivals.png
+  - [x] TownIndoors.png
+  - [x] bathhouse_tiles.png
+  - [x] coopTiles.png
+  - [x] fall_beach.png
+  - [x] fall_outdoorsTileSheet.png
+  - [x] fall_town.png
+  - [x] samshowtiles.png
+  - [x] spring_beach.png
+  - [x] spring_outdoorsTileSheet.png
+  - [x] spring_town.png
+  - [x] springobjects.png
+  - [x] summer_beach.png
+  - [x] summer_outdoorsTileSheet.png
+  - [x] summer_town.png
+  - [x] townInterior.png
+  - [x] winter_beach.png
+  - [x] winter_outdoorsTileSheet.png
+  - [x] winter_town.png
+- [x] Minigames
+  - [x] TitleButtons.png
+  - [x] jojacorps.png
