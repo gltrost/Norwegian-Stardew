@@ -1,17 +1,17 @@
 [ ] Alex
-- [ ] assets/Characters/Dialogue/Alex.json
-- [ ] assets/Characters/Dialogue/Evelyn.json
-- [ ] assets/Characters/Dialogue/George.json
-- [ ] assets/Characters/Dialogue/MarriageDialogue.json
-- [ ] assets/Characters/Dialogue/MarriageDialogueAlex.json
-- [ ] assets/Characters/Dialogue/rainy.json
-- [ ] assets/Data/EngagementDialogue.json
-- [ ] assets/Data/Events/Beach.json
-- [ ] assets/Data/Events/BusStop.json
-- [ ] assets/Data/Events/Farm.json
-- [ ] assets/Data/Events/HaleyHouse.json
-- [ ] assets/Data/Events/JoshHouse.json
-- [ ] assets/Data/Events/Saloon.json
+- [x] assets/Characters/Dialogue/Alex.json
+- [x] assets/Characters/Dialogue/Evelyn.json
+- [x] assets/Characters/Dialogue/George.json
+- [x] assets/Characters/Dialogue/MarriageDialogue.json
+- [x] assets/Characters/Dialogue/MarriageDialogueAlex.json
+- [x] assets/Characters/Dialogue/rainy.json
+- [x] assets/Data/EngagementDialogue.json
+- [x] assets/Data/Events/Beach.json
+- [x] assets/Data/Events/BusStop.json
+- [x] assets/Data/Events/Farm.json
+- [x] assets/Data/Events/HaleyHouse.json
+- [x] assets/Data/Events/JoshHouse.json
+- [x] assets/Data/Events/Saloon.json
 - [ ] assets/Data/Events/Town.json
 - [ ] assets/Data/ExtraDialogue.json
 - [ ] assets/Data/Festivals/fall16.json
