@@ -1,16 +1,16 @@
 {
   "Introduction": "Har du møtt hele bygda enda? Så slitsomt.",
-  "Resort": "Wow, se på disse strukturene!$h#$b#Jeg kan se at de ble laget av en mesterbygger. Jeg er virkelig imponert!",
-  "AcceptGift_(O)StardropTea": "Vent litt... gir du meg dette? For en spesiell godbit! Takk.",
-  "AcceptGift_(O)Book_Woodcutting": "Hva er dette... 'Woodys hemmelighet'? ... Um, hva slags bok er dette, @?$6#$b#Åh, den handler om skoghogst! Hahaha... Å ja, jeg kommer til å elske denne. Takk!$4",
-  "AcceptGift_(O)SkillBook_2": "Ah, 'Woodcutter's Weekly'... Jeg håpet å få tak i det nyeste nummeret! De har alle de nyeste teknikkene her!#$b#Fra en skogshugger til en annen... Takk.$h",
-  "GreenRain": "Den mannen er gal! Hvorfor må han gå ut dit? Vi aner ikke om dette regnet er farlig!$u%noturn",
-  "GreenRainFinished": "Jeg håper Demetrius er fornøyd med 'prøvene' han samlet inn. Virker som hans lille vitenskapsprosjekt er viktigere for ham enn hans egen kone. Hmmph.$6",
-  "GreenRain_2": "Det er all slags god ved der ute i dag. Bedre å begynne å hogge, eller hva?",
-  "divorced_Sebastian": "Sebastian er tilbake i kjelleren... hva skjedde mellom dere to?$s",
-  "divorced_Maru": "Maru gråt hele natten... Vi er alle knust...$s",
-  "married_Sebastian": "Åh, ikke bekymre deg... dette er gledestårer. Jeg vet at Sebastian vil bli veldig lykkelig på %farm Farm!$h",
-  "married_Maru": "Vi kommer alle til å savne å ha Maru rundt i huset, men jeg er sikker på at vi fortsatt vil se henne ofte!",
+  "Resort": "Wow, bare se på disse strukturene!$h#$b#Ser ut som det ble bygget av en ordentlig håndtverker. Jeg er skikkelig imponert!",
+  "AcceptGift_(O)StardropTea": "Vent nå litt... gir du meg dette? For en overraskelse! Takk.",
+  "AcceptGift_(O)Book_Woodcutting": "Hva er dette... 'Bjørks hemmelighet'? ... Ehm, hva slags bok er det her, @?$6#$b#Åh, den handler om tredreing! Hahaha... Å jo, den er midt i blinken. Takk!$4",
+  "AcceptGift_(O)SkillBook_2": "Åh, 'Snekkernes ukeblad'... Jeg ønsket meg det siste nummeret! De pleier å skrive om alle de nyeste teknikkene!#$b#Fra en håndtverker til en annen... Takk.$h",
+  "GreenRain": "Den mannen er jo gal! Hvorfor skal han ut dit? Vi aner ikke om regnet er farlig!$u%noturn",
+  "GreenRainFinished": "Jeg håper Demetrius er fornøyd med 'prøvene' sine. Virker som han synes det lille vitenskapsprosjektet sitt er mer viktig enn kona si. Hmmph.$6",
+  "GreenRain_2": "Det er mye god ved der ute i dag. Bare å hogge i vei!",
+  "divorced_Sebastian": "Sebastian kom tilbake til kjelleren... hva skjedde mellom dere to?$s",
+  "divorced_Maru": "Maru gråt hele natta... Det er tungt for oss alle sammen...$s",
+  "married_Sebastian": "Åh, slapp av... det er gledestårer. Jeg vet at Sebastian blir veldig lykkelig på %farm Farm!$h",
+  "married_Maru": "Vi kommer til å savne å ha Maru hjemme, men vi sees jo helt sikkert ofte!",
   "houseUpgrade_1": "Det var gøy å jobbe på huset ditt. Det kan være noe av den fineste konstruksjonen jeg noen gang har gjort!$h#$e#Jeg håper du liker det nye kjøkkenet.",
   "houseUpgrade_2": "Hva skal du gjøre med all den nye plassen i huset ditt?#$e#Eller kanskje jeg burde kalle det... 'herskapshuset' ditt?$h",
   "houseUpgrade_3": "Så, driver du med gammel vin? Jeg har hørt det er veldig lukrativt... hvis du har tålmodighet.",
@@ -59,3 +59,4 @@
   "winter_Sat": "Huset vårt ligger i et så vakkert område, synes du ikke?#$e#Alt ser stille ut etter et ferskt snøfall."
 
 }
+
