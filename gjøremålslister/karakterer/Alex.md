@@ -13,7 +13,7 @@
 - [x] assets/Data/Events/JoshHouse.json
 - [x] assets/Data/Events/Saloon.json
 - [x] assets/Data/Events/Town.json
-- [ ] assets/Data/ExtraDialogue.json
+- [x] assets/Data/ExtraDialogue.json
 - [ ] assets/Data/Festivals/fall16.json
 - [ ] assets/Data/Festivals/fall27.json
 - [ ] assets/Data/Festivals/spring13.json
