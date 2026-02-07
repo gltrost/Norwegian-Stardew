@@ -63,7 +63,7 @@
   "PurchasedItem_Pierre_QualityHigh": "Hei, husker du den {2}en du solgte meg her om dagen? Jeg endte opp med å servere den til familien til en spesiell middag.#$b#Kona mi elsket den! ...Og Abby begynte til og med å spise av den etter at jeg smurte den inn i hoisinsaus. $h#$b#... vel,... tilbake til forretninger, eller hva?",
   "PurchasedItem_Haley": "Emily prøvde å servere meg {1} {2} til middag i går kveld... Jeg kastet den da hun ikke så det.#$e#Jeg liker ikke sunn mat...$s",
   "PurchasedItem_Elliott": "Jeg så at Pierre hadde fersk {2} i butikken her om dagen! Fantastisk. Den luktet helt perfekt... og fast, også!",
-  "PurchasedItem_Alex": "Hei, så jeg kjøpte {1} {2} i butikken i går kveld. Bestemor lagde sin spesielle gryterett...",
+  "PurchasedItem_Alex": "Halla! Jeg kjøpte {1} {2} i butikken i går... Bestemor lagde gryteretten 'sin'...",
   "PurchasedItem_Leah": "Her om dagen kjøpte jeg {1} {2} hos Pierre. Den var perfekt på en seng av grønt og en dæsj av min 'spesielle' vinaigrette.",
   "PurchasedItem_1_QualityHigh_Willy": "Hei, {0}.#$b#Så jeg stakk innom Willy's her om dagen og kjøpte {1} {2}. Jeg har aldri sett en så fersk! #$b#Så jeg lagde den til middag i går kveld, og det fylte huset med en {3} lukt.. Det var en suksess!$h#$b#Han fortalte meg at du fanget den selv... Jeg er imponert!#$e#Uansett...",
   "PurchasedItem_1_QualityLow_Willy": "Hei, {0}.#$b#Så jeg stakk innom Willy's her om dagen og kjøpte {1} {2}. Han sa du fanget den selv! #$b#Jeg lagde den til middag i går kveld... og, øh... Det fylte huset med en {3} lukt. Jeg vil ikke engang vite hvor du fant den tingen...$s#$e#Uansett...",
@@ -129,7 +129,7 @@
   "SummitEvent_Dialogue1_Spouse": "Jeg tenkte bare på de siste %year årene...",
   "SummitEvent_Dialogue1B_Spouse": "Vi har gått gjennom mye sammen, ikke sant?$h",
   "SummitEvent_Dialogue2_Spouse": "...Men se hvor langt vi har kommet.",
-  "SummitEvent_Dialogue3_Alex": "Jeg har endelig funnet ut hvem jeg vil være... og jeg føler meg sikker på fremtiden.\"/pause 500/speak Alex \"Jeg tror ikke jeg ville ha kommet hit uten deg, @.\"",
+  "SummitEvent_Dialogue3_Alex": "Jeg tror jeg endelig har funnet ut hvem jeg vil være... fremtiden føles plutselig helt sikker!.\"/pause 500/speak Alex \"Jeg tror ikke jeg ville ha kommet hit uten deg, @.\"",
   "SummitEvent_Dialogue3_Sebastian": "Før jeg møtte deg, tilbrakte jeg mesteparten av tiden min vendt bort fra virkeligheten... fordi jeg trodde jeg aldri ville finne lykke.#$b#...men du har vist meg at verden ikke er et så mørkt sted likevel.$h\"/faceDirection Sebastian 3/pause 500/speak Sebastian \"...Det er en av grunnene til at jeg elsker deg...\"",
   "SummitEvent_Dialogue3_Sam": "Jeg føler at jeg har forandret meg mye siden vi først møttes... vet du?#$b#...du kan kalle det 'modenhet'... hehe.$10#$b#Men jeg er på et sted nå, hvor jeg faktisk er veldig spent på fremtiden vår sammen...$l#$b#Selv om det bare betyr å gjøre normale ting, som... øh... handle mat og skifte bleier... hah...$10",
   "SummitEvent_Dialogue3_Shane": "Hvis jeg ikke hadde møtt deg, @... ville jeg kanskje ikke engang vært her akkurat nå.#$b#Det ville vært synd, fordi fugletittingen her oppe er fenomenal!$h\"/emote farmer 16/pause 1000/speak Shane \"Heh... Jeg... Jeg har en tendens til å spøke mye, fordi... vel...$s#$b#Jeg antar at det å holde ting lett gjør at jeg slipper å åpne meg og gjøre meg sårbar.\"/emote Shane 28/speak Shane \"Men for hver sesong som går, med deg, blir jeg litt mer komfortabel med meg selv.#$b#Øh.. Jeg antar det jeg vil si er...#$b#Jeg angrer ikke på at jeg giftet meg med deg!$h\"",
@@ -146,4 +146,5 @@
   "SummitEvent_closingmessage3": "For en prestasjon!",
   "SummitEvent_closingmessage4": "Vi har sett hvert skritt på veien",
   "SummitEvent_closingmessage5": "Og du har gjort oss veldig stolte!"
+
 }
