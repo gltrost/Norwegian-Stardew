@@ -11,16 +11,16 @@
   "divorced_Maru": "Maru gråt hele natta... Det er tungt for oss alle sammen...$s",
   "married_Sebastian": "Åh, slapp av... det er gledestårer. Jeg vet at Sebastian blir veldig lykkelig på %farm Farm!$h",
   "married_Maru": "Vi kommer til å savne å ha Maru hjemme, men vi sees jo helt sikkert ofte!",
-  "houseUpgrade_1": "Det var gøy å jobbe på huset ditt. Det kan være noe av den fineste konstruksjonen jeg noen gang har gjort!$h#$e#Jeg håper du liker det nye kjøkkenet.",
-  "houseUpgrade_2": "Hva skal du gjøre med all den nye plassen i huset ditt?#$e#Eller kanskje jeg burde kalle det... 'herskapshuset' ditt?$h",
-  "houseUpgrade_3": "Så, driver du med gammel vin? Jeg har hørt det er veldig lukrativt... hvis du har tålmodighet.",
-  "structureBuilt_Coop": "Det er sannsynligvis det mest robuste hønsehuset jeg noen gang har bygget. Håper du får mye bruk for det!",
-  "structureBuilt_Shed": "Så, hva er planene dine med det nye skuret? Mulighetene er uendelige!",
-  "structureBuilt_Coop_memory_oneweek": "Hvordan behandler det nye hønsehuset deg? Jeg gleder meg til å møte de nye dyrene dine!",
-  "structureBuilt_Barn_memory_oneweek": "Er du fornøyd med den nye låven? Jeg er sikker på at du vil oppdra noen veldig glade husdyr der inne!",
-  "structureBuilt_Slime Hutch": "*puh*... Det var mye arbeid å bygge den slimhytta... Jeg trenger en dag på spa for å komme meg!$h",
-  "structureBuilt_Stable_memory_oneweek": "Så, har du ridd den nye hesten din rundt i byen?#$b#Jeg kan tenke meg at du er ganske støl, men du blir vant til det snart.$h",
-  "structureBuilt_Fish Pond": "Jeg nevnte for Willy at du fikk en ny fiskedam. Han virket veldig glad for det.#$e#Tilsynelatende oppdro han krabber da han var ung. Kalte det en 'tidløs tradisjon'.$h",
+  "houseUpgrade_1": "Det var gøy å bygge på huset ditt. Det er kanskje et av mine beste verk!$h#$e#Jeg håper du får mye bruk for det nye kjøkkenet.",
+  "houseUpgrade_2": "Hva skal du gjøre med all den ekstra plassen i huset ditt?#$e#Eller kanskje man heller bør kalle det... 'villaen' din ?$h",
+  "houseUpgrade_3": "Så, skal du begynne å elde vin? Jeg har hørt det er penger å tjene der... for den som har tålmodighet.",
+  "structureBuilt_Coop": "Der har du kanskje det mest solide hønsehuset jeg noensinne har bygget. Håper du får mye bruk for det!",
+  "structureBuilt_Shed": "Så, hvilke planer har du for det nye skuret? Du kan jo bruke det til hva som helst!",
+  "structureBuilt_Coop_memory_oneweek": "Falt det nye hønsehuset i smak? Gleder meg til å hilse på dyra dine!",
+  "structureBuilt_Barn_memory_oneweek": "Er du fornøyd med den nye låven? Skal vedde på at husdyra vil trives der!",
+  "structureBuilt_Slime Hutch": "*pøh*... Det var mye jobb å få opp den slimhytta... Jeg trenger en spadag for å få igjen piffen!$h",
+  "structureBuilt_Stable_memory_oneweek": "Så, har du ridd hesten din rundt i bygda?#$b#Ser for meg at du er ganske støl nå, men du blir fort vant til det.$h",
+  "structureBuilt_Fish Pond": "Jeg sa til Willy at du har fått ny fiskedam. Det begynte han å smile av.#$e#Han drev visst med krabbeoppdrett i sin tid. Kalte det en 'ærverdig tradisjon'.$h",
   "Resort_Leaving": "Det var gøy!$h",
   "Resort_Shore": "Hei, se! Jeg kan se en annen øy herfra.",
   "Resort_Chair": "Hei @. Du vet, jeg tenkte akkurat på hvor langt byen har kommet siden du flyttet hit.#$b#Du burde virkelig være stolt av alt du har gjort!$h",
@@ -59,4 +59,5 @@
   "winter_Sat": "Huset vårt ligger i et så vakkert område, synes du ikke?#$e#Alt ser stille ut etter et ferskt snøfall."
 
 }
+
 
